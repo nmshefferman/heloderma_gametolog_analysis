@@ -1,12 +1,12 @@
 # Evolution of Z-W gametologs in the Gila monster
 
-### Goal: Look at gametolog evolution in Gila monsters
+### Goal: Look at gametolog evolution in the Gila monster
 #### What is a gametolog?
 Pairs of homologous genes that have retained functional copies on both sex chromosomes, even if they are present in the non-recombining region of the chromosomes. These genes are derived from a common ancestral gene but have diverged because the chromosomes stopped recombining some time ago. 
 
-## Heloderma suspectum Z v. W
+## *Heloderma suspectum* Z v. W
 #### /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only
-The first step in this project is to compare gametologs on the Heloderma suspectum sex chromosomes.
+The first step in this project is to compare gametologs on the *Heloderma suspectum* sex chromosomes.
 
 **`scenario_expectation_blast_results.txt` file explains different expectations of how gene pairs might appear in the BLAST tables depending on how recently they stopped recombining.**
 
@@ -55,7 +55,7 @@ cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/s
 sbatch 01c_diamond_wGenes_allGenes.sh
 ```
 
-! NOTE: The Heloderma reference genome had the W masked, but not the Z. This means that W genes will get hits to the Z, which we don't care about because we already have a table of W-Z and Z-W hits. We want to only compare W genes to the autosomes. 
+! NOTE: The *Heloderma* reference genome had the W masked, but not the Z. This means that W genes will get hits to the Z, which we don't care about because we already have a table of W-Z and Z-W hits. We want to only compare W genes to the autosomes. 
 
 This means that we have to filter out the Z genes from the BLAST result:
 ```
@@ -337,7 +337,7 @@ done
 ```
 **Output:** `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only/paml/paml_yn00_summary.tsv`
 
-#### c) Finalize Heloderma suspectum Z-W gametolog list
+#### c) Finalize *Heloderma suspectum* Z-W gametolog list
 We also have to remove the 6 discarded genes from the final gametolog list and add the pairwise dS values.
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only
@@ -380,11 +380,11 @@ Rscript 07d_dS_Zcoord_plot.R
             `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/figures/dS_Wcoord_plot_gila_colored.png`
 
 
-## Varanus acanthurus Z v. W
+## *Varanus acanthurus* Z v. W
 #### /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/varanus_only
 Now that we have looked at gametologs within the Gila monster, we want to look at the gametologs in another closely related lizard species to better understand how sex chromosome evolution occured.
 
-### 8) Find Varanus Z-W gametologs
+### 8) Find *Varanus* Z-W gametologs
 #### a) Z to W
 ##### i) BLAST each Z gene to all W genes (using diamond)
 ```
@@ -442,7 +442,7 @@ zgrep -F -f /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheff
 ```
 **Output:** `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only/gene_coords/W_gametolog_coords.gff3`
 
-### 10) Compare Z and W genes that returned hits to get a list of high-confidence Z-W Varanus gametologs
+### 10) Compare Z and W genes that returned hits to get a list of high-confidence Z-W *Varanus* gametologs
 Make tables of Z-W best hits. Run R script:
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/scripts
@@ -647,7 +647,7 @@ done
 
 #### c) Plot dS vs. position on the Z ?
 
-#### d) Finalize Varanus acanthurus Z-W gametolog list
+#### d) Finalize *Varanus acanthurus* Z-W gametolog list
 We have to remove the 10 failed and 3 discarded alignments and add the pairwise dS values.
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/varanus_only
@@ -685,10 +685,10 @@ $1!="LOC_00019378" {
 
 ## Find orthologs of outgroups (using OrthoFinder outputs) & make gene trees  
 #### /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/outgroups
-Now that we have a list of gametologs for Heloderma suspectum and a close relative, Varanus acanthurus (they are both anguimorphs), we want to see how other orthologous genes from outgroup species might be related. The end goal of this section is to create gene trees to see how orthologs group together (might follow species trees, might not).
+Now that we have a list of gametologs for *Heloderma suspectum* and a close relative, *Varanus acanthurus* (they are both anguimorphs), we want to see how other orthologous genes from outgroup species might be related. The end goal of this section is to create gene trees to see how orthologs group together (might follow species trees, might not).
 
-### 14) Make a list of orthologs of Heloderma Z gametolog genes for each species
-First, we want to use the list of Heloderma Z gametologs to find orthologs in all outgroups (using Orthofinder tables). In R:
+### 14) Make a list of orthologs of *Heloderma* Z gametolog genes for each species
+First, we want to use the list of *Heloderma* Z gametologs to find orthologs in all outgroups (using Orthofinder tables). In R:
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/scripts
 module load R
@@ -698,10 +698,10 @@ Rscript 14_orthofinder_gametologs.R
 
 This script outputs tables for each outgroup that list any orthologs from that species to any Gila Z gametologs.
 
-### 15) Make table grouping orthologs by Heloderma Z, Heloderma W, Varanus Z, and Varanus W genes
-Next, the goal is to make a table containing all species (and Gila and Varanus W genes) of each Gila Z gametolog that has an ortholog in each species. 
+### 15) Make table grouping orthologs by *Heloderma* Z, *Heloderma* W, *Varanus* Z, and *Varanus* W genes
+Next, the goal is to make a table containing all species (and *Heloderma* and *Varanus* W genes) of each *Heloderma* Z gametolog that has an ortholog in each species. 
 
-! NOTE: The outputs of Orthofinder often yield multiple genes for the same Gila gene, as either isoforms of the same gene or paralogs. We decided to use the longest transcript when deciding which ortholog to keep, so first we must find the length of each transcript: 
+! NOTE: The outputs of Orthofinder often yield multiple genes for the same *Heloderma* gene, as either isoforms of the same gene or paralogs. We decided to use the longest transcript when deciding which ortholog to keep, so first we must find the length of each transcript: 
 ```
 # Make tables for each species listing the trancript length of each gene (to be used later)
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/outgroups/ 
@@ -737,7 +737,7 @@ do
     }' > "transcript_lengths/${out}_transcript_lengths.tsv"
 done
 
-# Separate steps for Gila and Varanus W gametologs (their transcript fastas are in a different directory and follow a slightly different naming scheme)
+# Separate steps for Heloderma and Varanus W gametologs (their transcript fastas are in a different directory and follow a slightly different naming scheme)
 for species in \
     Heloderma_suspectum.chrW-only_PAR-masked \
     Varanus_acanthurus/Varanus_acanthurus_chrW
@@ -761,7 +761,7 @@ done
 # Will need to rename files in `transcript_lengths` to "species"_transcript_lengths.tsv manually
 ```
 
-Then, we will build a table that lists the names of the genes (specifically, the longest isoform) that are orthologs to the same Gila Z-W and Varanus Z-W genes. The table will be used to pull out the FASTA sequences in next steps. In R:
+Then, we will build a table that lists the names of the genes (specifically, the longest isoform) that are orthologs to the same *Heloderma* Z-W and *Varanus* Z-W genes. The table will be used to pull out the FASTA sequences in next steps. In R:
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/scripts
 module load R
@@ -771,7 +771,7 @@ Rscript 15_merge_gametologs.R
             `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/combined_table_all_species.tsv`,
             `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/combined_table_no_shinisaurus.tsv`
 
-! NOTE: Some species will have an NA as their gene name if there is not an ortholog for the Gila/Varanus genes in that species. That is ok.
+! NOTE: Some species will have an NA as their gene name if there is not an ortholog for the *Heloderma*/*Varanus* genes in that species. That is ok.
 
 **IMPORTANT:** We are going to keep genes under two conditions; we will take all the genes that have orthologs in __all__ species. Then, we will also take all the genes that have orthologs in all species __except__ for *Shinisaurus*. *Shinisaurus* is not well annotated, meaning that a lot of its genes are missing, but we don't want to exclude these genes completely from the analysis if they will be informative.
 
@@ -859,7 +859,7 @@ There were 9 original gene files. He sent back 8 files for informative genes, re
 IQ-TREE will generate a gene tree given MSA files to best predict the phylogeny of each of the gene pairs.
 
 #### a) Run IQ-TREE on each alignment
-It is important to make sure that Podarcis is set as the root of the tree in the iqtree command (specified by -o flag)
+It is important to make sure that *Podarcis* is set as the root of the tree in the iqtree command (specified by -o flag)
 
 ##### i) All species
 ```
