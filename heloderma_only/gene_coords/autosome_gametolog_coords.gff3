@@ -1,0 +1,28 @@
+#seqid  source  type  start  end  score  strand  phase  attributes
+chr1	EviAnn	gene	125089133	125107502	.	+	.	ID=LOC_00000938;geneID=LOC_00000938;gene_biotype=protein_coding;Note=Similar to RTase: Probable RNA-directed DNA polymerase from transposon BS (Drosophila melanogaster);
+chr1	EviAnn	gene	147715627	147739565	.	-	.	ID=LOC_00001309;geneID=LOC_00001309;gene_biotype=protein_coding;Note=Similar to CFDP2: Craniofacial development protein 2 (Tragulus javanicus);
+chr1	EviAnn	gene	193636875	193658244	.	-	.	ID=LOC_00001599;geneID=LOC_00001599;gene_biotype=protein_coding;Note=function unknown;
+chr1	EviAnn	gene	266520782	266568912	.	+	.	ID=LOC_00002057;geneID=LOC_00002057;gene_biotype=protein_coding;Note=function unknown;
+chr1	EviAnn	gene	401423806	401432056	.	-	.	ID=LOC_00003000;geneID=LOC_00003000;gene_biotype=protein_coding;Note=Similar to env: Envelope glycoprotein gp95 (Rous sarcoma virus subgroup B (strain Schmidt-Ruppin));
+chr1	EviAnn	gene	412825619	412838742	.	+	.	ID=LOC_00003070;geneID=LOC_00003070;gene_biotype=protein_coding;Note=function unknown;
+chr10	EviAnn	gene	10220051	10221104	.	+	.	ID=LOC_00020664;geneID=LOC_00020664;gene_biotype=protein_coding;Note=function unknown;
+chr2	EviAnn	gene	45762583	45769904	.	+	.	ID=LOC_00011027;geneID=LOC_00011027;gene_biotype=protein_coding;Note=Similar to Syna: Syncytin-A (Mus musculus);
+chr2	EviAnn	gene	275316797	275325091	.	+	.	ID=LOC_00013217;geneID=LOC_00013217;gene_biotype=protein_coding;Note=Similar to Tf2-9: Transposon Tf2-9 polyprotein (Schizosaccharomyces pombe (strain 972 / ATCC 24843));
+chr2	EviAnn	gene	289218547	289258798	.	-	.	ID=LOC_00013412;geneID=LOC_00013412;gene_biotype=protein_coding;Note=Similar to pol: RNA-directed DNA polymerase from mobile element jockey (Drosophila melanogaster);
+chr2	EviAnn	gene	310027972	310029711	.	+	.	ID=LOC_00013563;geneID=LOC_00013563;gene_biotype=protein_coding;Note=Similar to pol: Gag-Pol polyprotein (Fragment) (Avian reticuloendotheliosis virus);
+chr2	EviAnn	gene	360447296	360457184	.	+	.	ID=LOC_00014015;geneID=LOC_00014015;gene_biotype=protein_coding;Note=Similar to Vmn2r26: Vomeronasal type-2 receptor 26 (Mus musculus);
+chr2	EviAnn	gene	361385760	361429292	.	+	.	ID=LOC_00014020;geneID=LOC_00014020;gene_biotype=protein_coding;Note=Similar to Vmn2r26: Vomeronasal type-2 receptor 26 (Mus musculus);
+chr3	EviAnn	gene	5980403	6251433	.	+	.	ID=LOC_00003442;geneID=LOC_00003442;gene_biotype=protein_coding;Note=Similar to Fam168a: Protein FAM168A (Mus musculus);
+chr3	EviAnn	gene	85799167	85823663	.	-	.	ID=LOC_00003947;geneID=LOC_00003947;gene_biotype=protein_coding;Note=function unknown;
+chr3	EviAnn	gene	189955819	189982973	.	+	.	ID=LOC_00004585;geneID=LOC_00004585;gene_biotype=protein_coding;Note=function unknown;
+chr3	EviAnn	gene	246145557	246150782	.	+	.	ID=LOC_00004954;geneID=LOC_00004954;gene_biotype=protein_coding;Note=function unknown;
+chr4	EviAnn	gene	89537995	89544121	.	-	.	ID=LOC_00008432;geneID=LOC_00008432;gene_biotype=protein_coding;Note=Similar to CFDP2: Craniofacial development protein 2 (Bos taurus);
+chr4	EviAnn	gene	109321538	109338706	.	-	.	ID=LOC_00008554;geneID=LOC_00008554;gene_biotype=protein_coding;Note=Similar to CFDP2: Craniofacial development protein 2 (Bos taurus);
+chr4	EviAnn	gene	202630345	202672578	.	+	.	ID=LOC_00009122;geneID=LOC_00009122;gene_biotype=protein_coding;Note=function unknown;
+chr4	EviAnn	gene	279475665	279555064	.	+	.	ID=LOC_00009879;geneID=LOC_00009879;gene_biotype=protein_coding;Note=Similar to F52C9.6: Putative uncharacterized transposon-derived protein F52C9.6 (Caenorhabditis elegans);
+chr5	EviAnn	gene	140946538	140947620	.	-	.	ID=LOC_00007002;geneID=LOC_00007002;gene_biotype=protein_coding;Note=function unknown;
+chr5	EviAnn	gene	167470886	167477529	.	-	.	ID=LOC_00007210;geneID=LOC_00007210;gene_biotype=protein_coding;Note=Similar to CFDP2: Craniofacial development protein 2 (Bos taurus);
+chr6	EviAnn	gene	86243381	86248546	.	+	.	ID=LOC_00017674;geneID=LOC_00017674;gene_biotype=protein_coding;Note=Similar to jockey\pol: RNA-directed DNA polymerase from mobile element jockey (Drosophila funebris);
+chr7	EviAnn	gene	869708	879610	.	-	.	ID=LOC_00019385;geneID=LOC_00019385;gene_biotype=protein_coding;Note=function unknown;
+chr7	EviAnn	gene	80854371	80881312	.	-	.	ID=LOC_00020129;geneID=LOC_00020129;gene_biotype=protein_coding;Note=function unknown;
+chr7	EviAnn	gene	90138971	90146581	.	-	.	ID=LOC_00020199;geneID=LOC_00020199;gene_biotype=protein_coding;Note=Similar to ERV3-1: Endogenous retrovirus group 3 member 1 Env polyprotein (Homo sapiens);

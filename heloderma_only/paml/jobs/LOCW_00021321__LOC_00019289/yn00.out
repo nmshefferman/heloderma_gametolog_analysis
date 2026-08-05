@@ -1,0 +1,145 @@
+
+Before deleting alignment gaps
+      2    795
+
+SEQ1                            ATG ACT GAG GCA GAA TAC ATT CTC TGC AAG TGG AAA AAT CGG TTG TGG CCA GCA AAG GTG CTG TCT AGA AGC TGC ACT TCC AGA GGA CTA TGC CTG GTT CTG GAG TCG GCC TCC ATT CGT GTC AAA ATC ATG TGC CTG AAT AAA CAG GTG AAT GTG TAC CGA ACT GAT ACC GAA CCC CTG AAG GAG GAG AGC ATT GAA GAT ATT GCC TCT AAC TTA GAT CAG AGC AAG AAG AAC CAG AAC CCC ATG GCG GAG TTG ACT TAT CGG CGC ACT CTG CGG GAT GCA CTG GAT ATT CTC AGT CGA GGT CCA AAG CTA TCC AAA GGA GAA ACC TCT TCA GGG GGC ATG AGA GGG AAG CCA TCA ACC CAG AAG GGC ACA CAA GAG AGA CCG TTG CCC TTC CCA GCT TTT AGG GAT GAT GAA GAC GAG --- --- GAG GAA CTC CCC AGT TTC CTC ATG CAT CAG GAA CCT TGT TCA ATC GAA CCA GGC ATG CTA GTT TGG TGT AAG CTC CCA AGA TAC CCA TAC TGG CCA GCT GTG GTG GAA AGG GTC AAA AAG AAA GCC AAA AAG GCC AAC GTA GTC CTC ATA GAA AAA AGC GTG GAT GAC AAA TCC AAG GGC TTC TCC ATC TCC CTC AAA ACC CTG AAA CAC TTT GAT TGC CAA GAG AAG CAG AAG TTG TTA GAC AAA GCC GGA GAA AGC TAC AAC AAC GAA ATC AAC TGG TGC ATC CGA TTG ATA GCG GAC TAC AGG ATT AGA GTA GGT TGC CAT TCG CTC ACG GGG TCT TTC TTG GAG TAC TGT GCT --- GAC ATG AGT 
+SEQ2                            ATG ACT GAG GCA GAA TAC ATC CTC TGC AAA TGG AGA AAG CGA TGG TGG CCA GCA AAG GTG TTG TCT AGA AGC TGC ACT TCC AGA AGA CTA CGC CTG GCT CAG AAG TCA GCC TCC ATT CGT GTC GAA ATC ATG TGC CTG AAT AAA CAG GCA AAT GTG CGC TGT GCT GAT ACC AAA CCC CTG AAG GAG GAG AGC ATT GAA GAT ATC GCC TCT GAG TTA GAT CAG AGC AAG AAG AAC CAG AAC CCC GTG GTG GAG TTG ACG TAT CGG CGC GCT CTG CGG GAT GCG CTG GAT ATT CTC AGT CAA GGT CCA AAG CTA TCC AAA GGG GAA ACC TCT TCA GGG GGG AGA AGA GGG AAG CCA TTG ACC CAG AAG GGC ATG CAA GAG AGA CAG TCG CCT TGC CCA GCT GTT AAG GAT GAT GAA GAC GAG GAG GAG GAG GAA CTC CCC AGT TTC CTT GTG CAT CAA GAA CCT TGT TCA ATC GAA CCA GGC ATG CTA GTT TGG TGT AAG CTC CCA AGA TAT CCA TAC TGG CCA GCT GTG GTG AAA AGG GTC CAA AAG AAA GCC AAG AAG GCC TAC GTA GTC CTC ATA GAA GAA AGT GTG GAT GAC AAA TCC AAG GGG TTC GCC ATC TCC CTC AAA GCC CTG AAA CAC TTT GAT TGC CAA GAG AAG CAG AAG TTG ATA GAC AAA GCT GGA GAG AGC TAC AAC AAC GAA ATC AAC TGG TGC ATC CTA TTG ATA GCA GAC TAC AGA ATT AGA GTA GGT TGC CAT TCG TTC ATG GGG TCA TTC TTG GAG TAC TGT GCT GAT GAC ATG AGC 
+
+
+
+After deleting gaps. 786 sites
+      2    786
+
+SEQ1                            ATG ACT GAG GCA GAA TAC ATT CTC TGC AAG TGG AAA AAT CGG TTG TGG CCA GCA AAG GTG CTG TCT AGA AGC TGC ACT TCC AGA GGA CTA TGC CTG GTT CTG GAG TCG GCC TCC ATT CGT GTC AAA ATC ATG TGC CTG AAT AAA CAG GTG AAT GTG TAC CGA ACT GAT ACC GAA CCC CTG AAG GAG GAG AGC ATT GAA GAT ATT GCC TCT AAC TTA GAT CAG AGC AAG AAG AAC CAG AAC CCC ATG GCG GAG TTG ACT TAT CGG CGC ACT CTG CGG GAT GCA CTG GAT ATT CTC AGT CGA GGT CCA AAG CTA TCC AAA GGA GAA ACC TCT TCA GGG GGC ATG AGA GGG AAG CCA TCA ACC CAG AAG GGC ACA CAA GAG AGA CCG TTG CCC TTC CCA GCT TTT AGG GAT GAT GAA GAC GAG GAG GAA CTC CCC AGT TTC CTC ATG CAT CAG GAA CCT TGT TCA ATC GAA CCA GGC ATG CTA GTT TGG TGT AAG CTC CCA AGA TAC CCA TAC TGG CCA GCT GTG GTG GAA AGG GTC AAA AAG AAA GCC AAA AAG GCC AAC GTA GTC CTC ATA GAA AAA AGC GTG GAT GAC AAA TCC AAG GGC TTC TCC ATC TCC CTC AAA ACC CTG AAA CAC TTT GAT TGC CAA GAG AAG CAG AAG TTG TTA GAC AAA GCC GGA GAA AGC TAC AAC AAC GAA ATC AAC TGG TGC ATC CGA TTG ATA GCG GAC TAC AGG ATT AGA GTA GGT TGC CAT TCG CTC ACG GGG TCT TTC TTG GAG TAC TGT GCT GAC ATG AGT 
+SEQ2                            ATG ACT GAG GCA GAA TAC ATC CTC TGC AAA TGG AGA AAG CGA TGG TGG CCA GCA AAG GTG TTG TCT AGA AGC TGC ACT TCC AGA AGA CTA CGC CTG GCT CAG AAG TCA GCC TCC ATT CGT GTC GAA ATC ATG TGC CTG AAT AAA CAG GCA AAT GTG CGC TGT GCT GAT ACC AAA CCC CTG AAG GAG GAG AGC ATT GAA GAT ATC GCC TCT GAG TTA GAT CAG AGC AAG AAG AAC CAG AAC CCC GTG GTG GAG TTG ACG TAT CGG CGC GCT CTG CGG GAT GCG CTG GAT ATT CTC AGT CAA GGT CCA AAG CTA TCC AAA GGG GAA ACC TCT TCA GGG GGG AGA AGA GGG AAG CCA TTG ACC CAG AAG GGC ATG CAA GAG AGA CAG TCG CCT TGC CCA GCT GTT AAG GAT GAT GAA GAC GAG GAG GAA CTC CCC AGT TTC CTT GTG CAT CAA GAA CCT TGT TCA ATC GAA CCA GGC ATG CTA GTT TGG TGT AAG CTC CCA AGA TAT CCA TAC TGG CCA GCT GTG GTG AAA AGG GTC CAA AAG AAA GCC AAG AAG GCC TAC GTA GTC CTC ATA GAA GAA AGT GTG GAT GAC AAA TCC AAG GGG TTC GCC ATC TCC CTC AAA GCC CTG AAA CAC TTT GAT TGC CAA GAG AAG CAG AAG TTG ATA GAC AAA GCT GGA GAG AGC TAC AAC AAC GAA ATC AAC TGG TGC ATC CTA TTG ATA GCA GAC TAC AGA ATT AGA GTA GGT TGC CAT TCG TTC ATG GGG TCA TTC TTG GAG TAC TGT GCT GAC ATG AGC 
+
+
+
+Printing out site pattern counts
+
+
+         2        330  P
+
+SEQ1                            AAA AAA AAA AAA AAA AAC AAC AAC AAG AAG AAT AAT ACA ACC ACC ACG ACT ACT ACT AGA AGC AGC AGG AGG AGG AGT AGT ATA ATC ATG ATG ATG ATT ATT CAA CAC CAG CAG CAT CCA CCC CCC CCG CCT CGA CGA CGA CGC CGG CGG CGT CTA CTC CTC CTC CTG CTG CTG GAA GAA GAA GAC GAG GAG GAT GCA GCA GCC GCC GCG GCG GCT GGA GGA GGA GGC GGC GGG GGT GTA GTC GTG GTG GTT GTT TAC TAC TAC TAT TCA TCA TCC TCC TCG TCG TCT TCT TGC TGC TGG TGT TTA TTA TTC TTC TTG TTG TTG TTT TTT 
+SEQ2                            ... ..G .G. C.. G.. ... G.G T.. ..A ... ..G ... .TG ... G.. .T. ..G ... G.. ... ... ..T .A. ..A ... ..C ... ... ... .GA ... G.. ..C ... ... ... ..A ... ... ... ... ..T .A. ... .A. .T. T.T ... ..A ... ... ... ... ..T T.. .A. ... T.. A.. ... ..G ... A.. ... ... ... ..G ... ..T ..A .T. ... A.. ... ..G ... ..G ... ... ... ... .CA ... .C. ... CG. ... ..T ... ... .TG G.. ... ..A ... ..A ... C.. ... ... ... A.. ... .G. ... .C. .G. ... G.. ... 
+
+    7    1    1    1    2    5    1    1    1   13    1    2    1    3    1
+    1    1    2    2    6    4    1    1    1    1    1    2    2    5    1
+    4    2    2    4    2    1    1    5    2    8    3    1    1    1    1
+    1    1    1    1    2    1    3    6    1    1    1    6    1    2    9
+    1    5    1    9    9    2    1    4    1    1    1    3    1    1    1
+    2    2    3    2    2    3    1    5    1    1    1    5    1    1    2
+    1    1    5    1    1    1    3    1    6    5    3    1    1    1    3
+    1    1    4    1    1
+
+YN00 paml/jobs/LOCW_00021321__LOC_00019289/LOCW_00021321__LOC_00019289.phy
+
+ns =   2	ls = 262
+
+Codon position x base (3x4) table for each sequence.
+
+SEQ1                
+position  1:    T:0.19847    C:0.19847    A:0.32061    G:0.28244
+position  2:    T:0.25191    C:0.20229    A:0.34733    G:0.19847
+position  3:    T:0.17939    C:0.29008    A:0.23664    G:0.29389
+
+SEQ2                
+position  1:    T:0.19466    C:0.19847    A:0.30153    G:0.30534
+position  2:    T:0.24427    C:0.19466    A:0.35496    G:0.20611
+position  3:    T:0.17939    C:0.27099    A:0.24427    G:0.30534
+
+Average
+position  1:    T:0.19656    C:0.19847    A:0.31107    G:0.29389
+position  2:    T:0.24809    C:0.19847    A:0.35115    G:0.20229
+position  3:    T:0.17939    C:0.28053    A:0.24046    G:0.29962
+
+Codon usage for each species
+----------------------------------------------------------------------
+Phe TTT   2   1 | Ser TCT   4   3 | Tyr TAT   1   2 | Cys TGT   3   4
+    TTC   4   4 |     TCC   6   5 |     TAC   7   6 |     TGC   7   7
+Leu TTA   2   1 |     TCA   3   4 | *** TAA   0   0 | *** TGA   0   0
+    TTG   6   6 |     TCG   2   2 |     TAG   0   0 | Trp TGG   5   6
+----------------------------------------------------------------------
+Leu CTT   0   1 | Pro CCT   1   2 | His CAT   2   2 | Arg CGT   1   1
+    CTC   8   6 |     CCC   4   3 |     CAC   1   1 |     CGC   1   3
+    CTA   3   4 |     CCA   8   8 | Gln CAA   2   5 |     CGA   3   1
+    CTG   8   6 |     CCG   1   0 |     CAG   6   7 |     CGG   3   2
+----------------------------------------------------------------------
+Ile ATT   6   4 | Thr ACT   5   2 | Asn AAT   3   2 | Ser AGT   3   3
+    ATC   5   7 |     ACC   4   3 |     AAC   7   5 |     AGC   5   5
+    ATA   2   3 |     ACA   1   0 | Lys AAA  12  10 | Arg AGA   6  10
+Met ATG   7   6 |     ACG   1   1 |     AAG  14  17 |     AGG   3   1
+----------------------------------------------------------------------
+Val GTT   2   2 | Ala GCT   3   7 | Asp GAT   9   9 | Gly GGT   2   2
+    GTC   3   3 |     GCC   5   6 |     GAC   5   5 |     GGC   4   2
+    GTA   2   2 |     GCA   3   4 | Glu GAA  12  11 |     GGA   3   1
+    GTG   6   8 |     GCG   2   1 |     GAG  10  11 |     GGG   3   6
+----------------------------------------------------------------------
+
+
+Sums
+------------------------------------------------------
+Phe TTT   3 | Ser TCT   7 | Tyr TAT   3 | Cys TGT   7
+    TTC   8 |     TCC  11 |     TAC  13 |     TGC  14
+Leu TTA   3 |     TCA   7 | *** TAA   0 | *** TGA   0
+    TTG  12 |     TCG   4 |     TAG   0 | Trp TGG  11
+------------------------------------------------------
+Leu CTT   1 | Pro CCT   3 | His CAT   4 | Arg CGT   2
+    CTC  14 |     CCC   7 |     CAC   2 |     CGC   4
+    CTA   7 |     CCA  16 | Gln CAA   7 |     CGA   4
+    CTG  14 |     CCG   1 |     CAG  13 |     CGG   5
+------------------------------------------------------
+Ile ATT  10 | Thr ACT   7 | Asn AAT   5 | Ser AGT   6
+    ATC  12 |     ACC   7 |     AAC  12 |     AGC  10
+    ATA   5 |     ACA   1 | Lys AAA  22 | Arg AGA  16
+Met ATG  13 |     ACG   2 |     AAG  31 |     AGG   4
+------------------------------------------------------
+Val GTT   4 | Ala GCT  10 | Asp GAT  18 | Gly GGT   4
+    GTC   6 |     GCC  11 |     GAC  10 |     GGC   6
+    GTA   4 |     GCA   7 | Glu GAA  23 |     GGA   4
+    GTG  14 |     GCG   3 |     GAG  21 |     GGG   9
+------------------------------------------------------
+
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+SEQ1                
+SEQ2                 0.4129 (0.0705 0.1708)
+
+
+(B) Yang & Nielsen (2000) method
+
+Yang Z, Nielsen R (2000) Estimating synonymous and nonsynonymous substitution rates under realistic evolutionary models. Mol. Biol. Evol. 17:32-43
+
+(equal weighting of pathways)
+
+seq. seq.     S       N        t   kappa   omega     dN +- SE    dS +- SE
+
+   2    1   225.0   561.0   0.2812  4.8176  0.5778 0.0775 +- 0.0124  0.1342 +- 0.0273
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+Li W.-H., C.-I. Wu, Luo (1985) A new method for estimating synonymous and nonsynonymous rates of nucleotide substitutions considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2: 150-174.
+Li W-H (1993) Unbiased estimation of the rates of synonymous and nonsynonymous substitution. J. Mol. Evol. 36:96-99
+Pamilo P, Bianchi NO (1993) Evolution of the Zfx and Zfy genes - rates and interdependence between the genes. Mol. Biol. Evol. 10:271-281
+Yang Z (2006) Computational Molecular Evolution. Oxford University Press, Oxford. Eqs. 2.12 & 2.13
+
+2 (SEQ2) vs. 1 (SEQ1)
+
+L(i):      503.5     179.5     103.0  sum=    786.0
+Ns(i):   27.0000   13.0000   10.0000  sum=  50.0000
+Nv(i):   10.5000    3.0000    4.5000  sum=  18.0000
+A(i):     0.0579    0.0796    0.1130
+B(i):     0.0213    0.0170    0.0457
+LWL85:  dS =  0.1881 dN =  0.0689 w = 0.3662 S =  162.8 N =  623.2
+LWL85m: dS =  0.1327 dN =  0.0773 w = 0.5825 S =  230.8 N =  555.2 (rho = 0.712)
+LPB93:  dS =  0.1375 dN =  0.0781 w = 0.5678
+

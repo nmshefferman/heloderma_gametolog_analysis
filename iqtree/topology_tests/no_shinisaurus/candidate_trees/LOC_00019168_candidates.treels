@@ -1,0 +1,3 @@
+((((Anolis,Furcifer),(Candoia,Thamnophis)),(((Heloderma_Z,Heloderma_W),(Anniella,Elgaria)),(Varanus_Z,Varanus_W))),Podarcis);
+((((Anolis,Furcifer),(Candoia,Thamnophis)),(((Heloderma_Z,(Anniella,Elgaria)),Varanus_Z),(Heloderma_W,Varanus_W))),Podarcis);
+((Anolis:0.1521716923,Furcifer:0.2170578939)90:0.0534309026,(((Varanus_Z:0.0503522635,Varanus_W:0.0416266632)100:0.1017559396,((Heloderma_Z:0.0132888282,Heloderma_W:0.0237912602)100:0.0206381142,(Anniella:0.0273979828,Elgaria:0.0487094199)93:0.0211577170)46:0.0061352166)67:0.0194520201,(Candoia:0.0599546842,Thamnophis:0.0266019460)100:0.0773186448)56:0.0249896576,Podarcis:0.1500762095);

@@ -1,0 +1,8 @@
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019157.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019157 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019162.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019162 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019168.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019168 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019169.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019169 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019236.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019236 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019256.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019256 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019264.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019264 -T 1
+iqtree2 -s align/no_shinisaurus/clean_fastas/LOC_00019334.fasta -B 10000 -o Podarcis --prefix make_trees/no_shinisaurus/LOC_00019334 -T 1

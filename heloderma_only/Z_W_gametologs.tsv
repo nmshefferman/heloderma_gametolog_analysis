@@ -1,0 +1,107 @@
+W	W_name	W_start	W_end	Z	Z_name	Z_start	Z_end
+LOCW_00021289	UPF1: Regulator of nonsense transcripts 1	27932656	27979876	LOC_00019264	UPF1: Regulator of nonsense transcripts 1	14020251	14068138
+LOCW_00021291	TMEM259: Membralin	28130974	28190783	LOC_00019239	Tmem259: Membralin	12936385	12969804
+LOCW_00021292	RANBP3: Ran-binding protein 3	28288063	28336153	LOC_00019342	RANBP3: Ran-binding protein 3	18323305	18376625
+LOCW_00021295	GNA11: Guanine nucleotide-binding protein subunit alpha-11	28417528	28460045	LOC_00019212	GNA11: Guanine nucleotide-binding protein subunit alpha-11	10348023	10375821
+LOCW_00021296	NCLN: BOS complex subunit NCLN	28486916	28519297	LOC_00019218	NCLN: BOS complex subunit NCLN	10500950	10524739
+LOCW_00021297	CELF5: CUGBP Elav-like family member 5	28541079	28667662	LOC_00019219	CELF5: CUGBP Elav-like family member 5	10540563	10637180
+LOCW_00021298	slc25a42: Mitochondrial coenzyme A transporter SLC25A42	28701973	28745390	LOC_00019256	slc25a42: Mitochondrial coenzyme A transporter SLC25A42	13690677	13737162
+LOCW_00021300	GATAD2A: Transcriptional repressor p66-alpha	28829645	28952962	LOC_00019236	GATAD2A: Transcriptional repressor p66-alpha	12800785	12907053
+LOCW_00021302	MYO9B: Unconventional myosin-IXb	35463983	35471529	LOC_00019345	MYO9B: Unconventional myosin-IXb	18417121	18505787
+LOCW_00021304	Vmn2r26: Vomeronasal type-2 receptor 26	35810906	35828435	LOC_00019337	Vmn2r26: Vomeronasal type-2 receptor 26	17414069	17486806
+LOCW_00021305	Pip5k1c: Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	35840295	35971573	LOC_00019276	Pip5k1c: Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	14493799	14564283
+LOCW_00021308	KLHL26: Kelch-like protein 26	36483389	36483628	LOC_00019266	KLHL26: Kelch-like protein 26	14240560	14259530
+LOCW_00021310	OAZ: Ornithine decarboxylase antizyme 1	36603557	36816002	LOC_00019225	OAZ: Ornithine decarboxylase antizyme 1	12170220	12181021
+LOCW_00021312	kxd1: KxDL motif-containing protein 1	36822275	36849384	LOC_00019243	kxd1: KxDL motif-containing protein 1	13119232	13131111
+LOCW_00021314	Cers1: Ceramide synthase 1	46039816	46055189	LOC_00019262	Cers1: Ceramide synthase 1	13979853	14027199
+LOCW_00021315	C19orf25: UPF0449 protein C19orf25	46079671	46086278	LOC_00019278	C19orf25: UPF0449 protein C19orf25	14999174	15006183
+LOCW_00021317	APC2: Adenomatous polyposis coli protein 2	46186319	46228830	LOC_00019282	APC2: Adenomatous polyposis coli protein 2	15115910	15158570
+LOCW_00021318	Rps15: Small ribosomal subunit protein uS19	46268056	46272510	LOC_00019284	Rps15: Small ribosomal subunit protein uS19	15197702	15206193
+LOCW_00021319	DAZAP1: DAZ-associated protein 1	46280890	46349028	LOC_00019285	Dazap1: DAZ-associated protein 1	15211535	15264131
+LOCW_00021321	PWWP3A: PWWP domain-containing DNA repair factor 3A	47100358	47118442	LOC_00019289	PWWP3A: PWWP domain-containing DNA repair factor 3A	15303122	15324868
+LOCW_00021322	EFNA2: Ephrin-A2	47349916	47589305	LOC_00019292	EFNA2: Ephrin-A2	15489501	15698693
+LOCW_00021323	FAM174C: Protein FAM174C	47657917	47669490	LOC_00019295	FAM174C: Protein FAM174C	15758024	15773265
+LOCW_00021324	Atp5f1d: ATP synthase F(1) complex subunit delta, mitochondrial	47670331	47686919	LOC_00019296	Atp5f1d: ATP synthase F(1) complex subunit delta, mitochondrial	15773777	15784681
+LOCW_00021325	midn: Midnolin	47735926	47794141	LOC_00019297	midn: Midnolin	15828845	15871847
+LOCW_00021328	CIRBP: Cold-inducible RNA-binding protein	47888273	47900296	LOC_00019298	CIRBP: Cold-inducible RNA-binding protein	15950238	15967245
+LOCW_00021329	CBARP: Voltage-dependent calcium channel beta subunit-associated regulatory protein	47925909	47955304	LOC_00019299	Cbarp: Voltage-dependent calcium channel beta subunit-associated regulatory protein	15981612	16011057
+LOCW_00021330	STK11: Serine/threonine-protein kinase STK11	47959242	48042480	LOC_00019300	STK11: Serine/threonine-protein kinase STK11	16015767	16091749
+LOCW_00021331	SBNO2: Protein strawberry notch homolog 2	48066920	48210912	LOC_00019301	SBNO2: Protein strawberry notch homolog 2	16113137	16232479
+LOCW_00021332	POLRMT: DNA-directed RNA polymerase, mitochondrial	48266068	48269335	LOC_00019304	POLRMT: DNA-directed RNA polymerase, mitochondrial	16262243	16311630
+LOCW_00021334	HCN2: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	48508845	48592729	LOC_00019305	HCN2: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	16321329	16372778
+LOCW_00021335	BSG: Basigin	48605524	48660472	LOC_00019306	BSG: Basigin	16391396	16429126
+LOCW_00021336	CDC34: Ubiquitin-conjugating enzyme E2 R1	48664609	48692232	LOC_00019307	CDC34: Ubiquitin-conjugating enzyme E2 R1	16429381	16456583
+LOCW_00021337	AP1M1: AP-1 complex subunit mu-1	48804954	48822089	LOC_00019350	AP1M1: AP-1 complex subunit mu-1	19410849	19430146
+LOCW_00021338	RAB8A: Ras-related protein Rab-8A	48821985	48842483	LOC_00019351	RAB8A: Ras-related protein Rab-8A	19430327	19440337
+LOCW_00021340	tpm1: Tropomyosin alpha-1 chain	48852700	48860017	LOC_00019353	tpm1: Tropomyosin alpha-1 chain	19458587	19466656
+LOCW_00021342	KLF2: Krueppel-like factor 2	48880063	48885233	LOC_00019354	KLF2: Krueppel-like factor 2	19488269	19493940
+LOCW_00021343	Eps15l1: Epidermal growth factor receptor substrate 15-like 1	48887945	48939639	LOC_00019355	EPS15L1: Epidermal growth factor receptor substrate 15-like 1	19496147	19543980
+LOCW_00021344	CALR: Calreticulin	48939914	48955443	LOC_00019356	CALR: Calreticulin	19544255	19559507
+LOCW_00021345	Cherp: Calcium homeostasis endoplasmic reticulum protein	48960262	48972647	LOC_00019358	Cherp: Calcium homeostasis endoplasmic reticulum protein	19564465	19576823
+LOCW_00021346	SLC35E1: Solute carrier family 35 member E1	48974774	48985370	LOC_00019359	SLC35E1: Solute carrier family 35 member E1	19578538	19589542
+LOCW_00021347	med26: Mediator of RNA polymerase II transcription subunit 26	48987240	48998456	LOC_00019360	med26: Mediator of RNA polymerase II transcription subunit 26	19588877	19603286
+LOCW_00021348	smim7-a: Small integral membrane protein 7-A	49010777	49019005	LOC_00019361	smim7-a: Small integral membrane protein 7-A	19609384	19616174
+LOCW_00021349	TMEM38A: Trimeric intracellular cation channel type A	49018942	49028002	LOC_00019362	TMEM38A: Trimeric intracellular cation channel type A	19616748	19626973
+LOCW_00021350	SIN3B: Paired amphipathic helix protein Sin3b	52795699	52812124	LOC_00019364	SIN3B: Paired amphipathic helix protein Sin3b	19778255	19795108
+LOCW_00021351	F2rl3: Proteinase-activated receptor 4	52813446	52820774	LOC_00019365	F2rl3: Proteinase-activated receptor 4	19795568	19803794
+LOCW_00021352	CPAMD8: C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8	52835284	52847030	LOC_00019367	CPAMD8: C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8	19818527	19843474
+LOCW_00021353	ifi30: Gamma-interferon-inducible lysosomal thiol reductase	52930363	52939851	LOC_00019368	ifi30: Gamma-interferon-inducible lysosomal thiol reductase	19849728	19859493
+LOCW_00021354	Pik3r2: Phosphatidylinositol 3-kinase regulatory subunit beta	52945098	52962059	LOC_00019369	Pik3r2: Phosphatidylinositol 3-kinase regulatory subunit beta	19864834	19881719
+LOCW_00021355	mast3: Microtubule-associated serine/threonine-protein kinase 3	52968314	53007883	LOC_00019370	mast3: Microtubule-associated serine/threonine-protein kinase 3	19887806	19932023
+LOCW_00021356	PEX11G: Peroxisomal membrane protein 11C	53088348	53098100	LOC_00019373	PEX11G: Peroxisomal membrane protein 11C	20019486	20028740
+LOCW_00021357	ARHGEF18: Rho guanine nucleotide exchange factor 18	53098536	53139136	LOC_00019374	Arhgef18: Rho guanine nucleotide exchange factor 18	20029546	20069253
+LOCW_00021358	INSR: Insulin receptor	53170244	53224965	LOC_00019375	INSR: Insulin receptor	20103080	20159711
+LOCW_00021360	USE1: Vesicle transport protein USE1	53228556	53254051	LOC_00019376	USE1: Vesicle transport protein USE1	20162085	20181032
+LOCW_00021361	RPL36: Large ribosomal subunit protein eL36	53254097	53258987	LOC_00019377	NA	20181010	20185964
+LOCW_00021362	LONP1: Lon protease homolog, mitochondrial	53265918	53286183	LOC_00019378	LONP1: Lon protease homolog, mitochondrial	20196291	20216679
+LOCW_00021363	TLE5: TLE family member 5	53468066	53515033	LOC_00019211	TLE5: TLE family member 5	10285252	10314175
+LOCW_00021366	Rnf126: E3 ubiquitin-protein ligase RNF126	56126743	56153893	LOC_00019196	Rnf126: E3 ubiquitin-protein ligase RNF126	9502458	9540707
+LOCW_00021367	arid3a: AT-rich interactive domain-containing protein 3A	56176886	56248306	LOC_00019197	arid3a: AT-rich interactive domain-containing protein 3A	9555842	9634635
+LOCW_00021368	Plppr3: Phospholipid phosphatase-related protein type 3	56319382	56330000	LOC_00019203	Plppr3: Phospholipid phosphatase-related protein type 3	9771469	9780193
+LOCW_00021369	PALM: Paralemmin-1	56376984	56919472	LOC_00019206	PALM: Paralemmin-1	9916003	10015715
+LOCW_00021370	MIER2: Mesoderm induction early response protein 2	56944412	57034220	LOC_00019207	MIER2: Mesoderm induction early response protein 2	10015781	10059978
+LOCW_00021371	PTBP1: Polypyrimidine tract-binding protein 1	57168062	57225139	LOC_00019204	PTBP1: Polypyrimidine tract-binding protein 1	9802065	9850006
+LOCW_00021372	NA	57094473	57175456	LOC_00019077	NA	3494828	3522371
+LOCW_00021373	Hmg20b: SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related	57283864	57296608	LOC_00019184	Hmg20b: SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related	8997738	9018797
+LOCW_00021374	Fzr1: Fizzy-related protein homolog	57307679	57367128	LOC_00019183	FZR1: Fizzy-related protein homolog	8947524	8993319
+LOCW_00021375	NFIC: Nuclear factor 1 C-type	57587618	57842677	LOC_00019175	NFIC: Nuclear factor 1 C-type	8339350	8517040
+LOCW_00021380	Abhd17a: Alpha/beta hydrolase domain-containing protein 17A	57877332	57903234	LOC_00019174	ABHD17A: Alpha/beta hydrolase domain-containing protein 17A	8276332	8304642
+LOCW_00021381	Klf9: Krueppel-like factor 9	57910899	57926920	LOC_00019173	Klf16: Krueppel-like factor 16	8252844	8268865
+LOCW_00021382	ONECUT2: One cut domain family member 2	58185808	58285342	LOC_00019169	ONECUT2: One cut domain family member 2	7967439	8054940
+LOCW_00021383	tcf3: Transcription factor E2-alpha	58660303	58772461	LOC_00019168	Tcf3: Transcription factor E2-alpha	7636457	7741050
+LOCW_00021385	DPP9: Dipeptidyl peptidase 9	58985565	59092507	LOC_00019083	dpp9: Dipeptidyl peptidase 9	3770631	3850622
+LOCW_00021387	YJU2: Splicing factor YJU2	59102128	59120577	LOC_00019085	YJU2: Splicing factor YJU2	3869809	3890003
+LOCW_00021389	KDM4B: Lysine-specific demethylase 4B	59649811	60016586	LOC_00019076	KDM4B: Lysine-specific demethylase 4B	3368876	3559036
+LOCW_00021392	UHRF1: E3 ubiquitin-protein ligase UHRF1	60055251	60092858	LOC_00019078	UHRF1: E3 ubiquitin-protein ligase UHRF1	3561646	3611573
+LOCW_00021393	HDGFL2: Hepatoma-derived growth factor-related protein 2	60280305	60360859	LOC_00019094	HDGFL2: Hepatoma-derived growth factor-related protein 2	4211500	4243641
+LOCW_00021394	CHAF1A: Chromatin assembly factor 1 subunit A	60384120	60454356	LOC_00019092	CHAF1A: Chromatin assembly factor 1 subunit A	4141279	4180144
+LOCW_00021395	SH3GL1: Endophilin-A2	60458234	60545471	LOC_00019090	SH3GL1: Endophilin-A2	4072386	4136353
+LOCW_00021397	SAFB: Scaffold attachment factor B1	60634623	60685617	LOC_00019069	SAFB: Scaffold attachment factor B1	2377013	2415862
+LOCW_00021401	JUND: Transcription factor JunD	63474677	63491355	LOC_00019332	JUND: Transcription factor JunD	17214429	17221899
+LOCW_00021402	Lsm4: U6 snRNA-associated Sm-like protein LSm4	63515633	63526723	LOC_00019331	Lsm4: U6 snRNA-associated Sm-like protein LSm4	17181308	17192724
+LOCW_00021403	PGPEP1: Pyroglutamyl-peptidase 1	63540723	63579000	LOC_00019329	PGPEP1: Pyroglutamyl-peptidase 1	17142462	17181245
+LOCW_00021404	NA	63619838	63631699	LOC_00019327	LRRC25: Leucine-rich repeat-containing protein 25	17077416	17090093
+LOCW_00021405	ELL: RNA polymerase II elongation factor ELL	63700643	63767383	LOC_00019325	ELL: RNA polymerase II elongation factor ELL	16969305	17024973
+LOCW_00021407	haus8: HAUS augmin-like complex subunit 8	64141192	64152881	LOC_00019336	HAUS8: HAUS augmin-like complex subunit 8	17384830	17395010
+LOCW_00021408	MPV17L2: Mpv17-like protein 2	64158301	64161979	LOC_00019335	MPV17L2: Mpv17-like protein 2	17377156	17384823
+LOCW_00021409	RAB3A: Ras-related protein Rab-3A	64162772	64180696	LOC_00019334	RAB3A: Ras-related protein Rab-3A	17362695	17377072
+LOCW_00021413	Sema6b: Semaphorin-6B	64646944	64744694	LOC_00019100	Sema6b: Semaphorin-6B	4392126	4437478
+LOCW_00021414	MAP2K2: Dual specificity mitogen-activated protein kinase kinase 2	64826604	64885997	LOC_00019116	MAP2K2: Dual specificity mitogen-activated protein kinase kinase 2	5208245	5237711
+LOCW_00021415	ZBTB7A: Zinc finger and BTB domain-containing protein 7A	64900894	64995088	LOC_00019114	ZBTB7A: Zinc finger and BTB domain-containing protein 7A	5114815	5190163
+LOCW_00021416	PIAS4: E3 SUMO-protein ligase PIAS4	65138206	65224752	LOC_00019112	PIAS4: E3 SUMO-protein ligase PIAS4	5040220	5096499
+LOCW_00021417	EEF2: Elongation factor 2	65138064	65238277	LOC_00019111	EEF2: Elongation factor 2	5018999	5041956
+LOCW_00021418	MBD3: Methyl-CpG-binding domain protein 3	65273664	65301672	LOC_00019166	MBD3: Methyl-CpG-binding domain protein 3	7588433	7605807
+LOCW_00021419	Mex3d: RNA-binding protein MEX3D	65321574	65338086	LOC_00019165	Mex3d: RNA-binding protein MEX3D	7560495	7573131
+LOCW_00021420	Fbn2: Fibrillin-2	65649741	65822294	LOC_00019127	Fbn2: Fibrillin-2	5802352	5947010
+LOCW_00021422	Ras-related protein Rab-11B	65850867	65885841	LOC_00019132	Ras-related protein Rab-11B	6061616	6079486
+LOCW_00021423	marchf2: E3 ubiquitin-protein ligase MARCHF2	65899366	65912189	LOC_00019131	marchf2: E3 ubiquitin-protein ligase MARCHF2	6042244	6058538
+LOCW_00021424	Hnrnpm: Heterogeneous nuclear ribonucleoprotein M	65915739	65941967	LOC_00019130	Hnrnpm: Heterogeneous nuclear ribonucleoprotein M	6014919	6041985
+LOCW_00021425	ANP32B: Acidic leucine-rich nuclear phosphoprotein 32 family member B	66021905	66069630	LOC_00019135	ANP32B: Acidic leucine-rich nuclear phosphoprotein 32 family member B	6128362	6154156
+LOCW_00021428	ELAVL1: ELAV-like protein 1	66117583	66155803	LOC_00019120	ELAVL1: ELAV-like protein 1	5487995	5533167
+LOCW_00021429	ZFR2: Zinc finger RNA-binding protein 2	66174665	66229072	LOC_00019122	ZFR2: Zinc finger RNA-binding protein 2	5545493	5593502
+LOCW_00021430	MLLT1: Protein ENL	66312619	66356447	LOC_00019140	MLLT1: Protein ENL	6328384	6354180
+LOCW_00021431	Nrtn: Neurturin	66507961	66511312	LOC_00019143	Nrtn: Neurturin	6514206	6521767
+LOCW_00021433	Ap3d1: AP-3 complex subunit delta-1	66741195	66828165	LOC_00019157	Ap3d1: AP-3 complex subunit delta-1	7079638	7140619
+LOCW_00021435	BTBD2: BTB/POZ domain-containing protein 2	67565737	67604746	LOC_00019161	BTBD2: BTB/POZ domain-containing protein 2	7292177	7311605
+LOCW_00021436	Csnk1g2: Casein kinase I isoform gamma-2	67608510	67683854	LOC_00019162	Csnk1g2: Casein kinase I isoform gamma-2	7309043	7389829
+LOCW_00021437	DOT1L: Histone-lysine N-methyltransferase, H3 lysine-79 specific	67938799	67953268	LOC_00019156	DOT1L: Histone-lysine N-methyltransferase, H3 lysine-79 specific	6964625	7059744

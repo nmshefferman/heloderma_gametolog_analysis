@@ -1,0 +1,67 @@
+#seqid  source  type  start  end  score  strand  phase  attributes
+CM113905.1	LiftOn	gene	345031	366436	.	+	.	ID=LOCZ_00019378;geneID=LOCZ_00019378;gene_biotype=protein_coding;Note=Similar to LONP1: Lon protease homolog, mitochondrial (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	406918	407450	.	+	.	ID=LOCZ_00019343;geneID=LOCZ_00019343;gene_biotype=protein_coding;Note=function unknown;;source=Liftoff
+CM113905.1	LiftOn	gene	1405230	1413386	.	-	.	ID=LOCZ_00019334;geneID=LOCZ_00019334;gene_biotype=protein_coding;Note=Similar to RAB3A: Ras-related protein Rab-3A (Bos taurus);;source=Liftoff
+CM113905.1	LiftOn	gene	1557638	1574569	.	+	.	ID=LOCZ_00019329;geneID=LOCZ_00019329;gene_biotype=protein_coding;Note=Similar to PGPEP1: Pyroglutamyl-peptidase 1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	1646786	1673386	.	-	.	ID=LOCZ_00019325;geneID=LOCZ_00019325;gene_biotype=protein_coding;Note=Similar to ELL: RNA polymerase II elongation factor ELL (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	1680448	1686369	.	+	.	ID=LOCZ_00019323;geneID=LOCZ_00019323;gene_biotype=protein_coding;Note=Similar to DDA1: DET1- and DDB1-associated protein 1 (Gallus gallus);;source=Liftoff
+CM113905.1	LiftOn	gene	1691403	1733316	.	-	.	ID=LOCZ_00019322;geneID=LOCZ_00019322;gene_biotype=protein_coding;Note=Similar to ANO8: Anoctamin-8 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	1962954	1981145	.	+	.	ID=LOCZ_00019306;geneID=LOCZ_00019306;gene_biotype=protein_coding;Note=Similar to BSG: Basigin (Gallus gallus);;source=Liftoff
+CM113905.1	LiftOn	gene	1994743	2028272	.	-	.	ID=LOCZ_00019305;geneID=LOCZ_00019305;gene_biotype=protein_coding;Note=Similar to HCN2: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	2089166	2126085	.	-	.	ID=LOCZ_00019301;geneID=LOCZ_00019301;gene_biotype=protein_coding;Note=Similar to SBNO2: Protein strawberry notch homolog 2 (Bos taurus);;source=Liftoff
+CM113905.1	LiftOn	gene	2216920	2233382	.	-	.	ID=LOCZ_00019299;geneID=LOCZ_00019299;gene_biotype=protein_coding;Note=Similar to Cbarp: Voltage-dependent calcium channel beta subunit-associated regulatory protein (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	2653250	2695269	.	+	.	ID=LOCZ_00019285;geneID=LOCZ_00019285;gene_biotype=protein_coding;Note=Similar to Dazap1: DAZ-associated protein 1 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	2697689	2700943	.	+	.	ID=LOCZ_00019284;geneID=LOCZ_00019284;gene_biotype=protein_coding;Note=Similar to Rps15: Small ribosomal subunit protein uS19 (Rattus norvegicus);;source=Liftoff
+CM113905.1	LiftOn	gene	2719588	2747149	.	+	.	ID=LOCZ_00019282;geneID=LOCZ_00019282;gene_biotype=protein_coding;Note=Similar to APC2: Adenomatous polyposis coli protein 2 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	2812976	2814425	.	+	.	ID=LOCZ_00019277;geneID=LOCZ_00019277;gene_biotype=protein_coding;Note=function unknown;;source=Liftoff
+CM113905.1	LiftOn	gene	2878241	2891902	.	+	.	ID=LOCZ_00019274;geneID=LOCZ_00019274;gene_biotype=protein_coding;Note=Similar to FSTL3: Follistatin-related protein 3 (Bos taurus);;source=Liftoff
+CM113905.1	LiftOn	gene	2972134	2986463	.	+	.	ID=LOCZ_00019267;geneID=LOCZ_00019267;gene_biotype=protein_coding;Note=Similar to TMEM59L: Transmembrane protein 59-like (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	3010566	3018771	.	+	.	ID=LOCZ_00019266;geneID=LOCZ_00019266;gene_biotype=protein_coding;Note=Similar to KLHL26: Kelch-like protein 26 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	3123317	3150073	.	+	.	ID=LOCZ_00019264;geneID=LOCZ_00019264;gene_biotype=protein_coding;Note=Similar to UPF1: Regulator of nonsense transcripts 1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	3337655	3343795	.	+	.	ID=LOCZ_00019256;geneID=LOCZ_00019256;gene_biotype=protein_coding;Note=Similar to slc25a42: Mitochondrial coenzyme A transporter SLC25A42 (Xenopus tropicalis);;source=Liftoff
+CM113905.1	LiftOn	gene	3560084	3571451	.	-	.	ID=LOCZ_00019231;geneID=LOCZ_00019231;gene_biotype=protein_coding;Note=Similar to Hapln4: Hyaluronan and proteoglycan link protein 4 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	3601154	3609213	.	-	.	ID=LOCZ_00019233;geneID=LOCZ_00019233;gene_biotype=protein_coding;Note=Similar to Sugp1: SURP and G-patch domain-containing protein 1 (Rattus norvegicus);;source=Liftoff
+CM113905.1	LiftOn	gene	3612432	3621252	.	-	.	ID=LOCZ_00019236;geneID=LOCZ_00019236;gene_biotype=protein_coding;Note=Similar to GATAD2A: Transcriptional repressor p66-alpha (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	3770416	3771328	.	-	.	ID=LOCZ_00019246;geneID=LOCZ_00019246;gene_biotype=protein_coding;Note=Similar to hsp30c: Heat shock protein 30C (Xenopus laevis);;source=Liftoff
+CM113905.1	LiftOn	gene	4387291	4445365	.	-	.	ID=LOCZ_00019219;geneID=LOCZ_00019219;gene_biotype=protein_coding;Note=Similar to CELF5: CUGBP Elav-like family member 5 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	4463592	4481505	.	-	.	ID=LOCZ_00019218;geneID=LOCZ_00019218;gene_biotype=protein_coding;Note=Similar to NCLN: BOS complex subunit NCLN (Canis lupus familiaris);;source=Liftoff
+CM113905.1	LiftOn	gene	4632067	4655651	.	+	.	ID=LOCZ_00019211;geneID=LOCZ_00019211;gene_biotype=protein_coding;Note=Similar to TLE5: TLE family member 5 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	4711261	4748457	.	-	.	ID=LOCZ_00019209;geneID=LOCZ_00019209;gene_biotype=protein_coding;Note=Similar to esg1: Transducin-like enhancer protein 1 (Xenopus laevis);;source=Liftoff
+CM113905.1	LiftOn	gene	4850835	4867436	.	-	.	ID=LOCZ_00019207;geneID=LOCZ_00019207;gene_biotype=protein_coding;Note=Similar to MIER2: Mesoderm induction early response protein 2 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	4987316	5017211	.	+	.	ID=LOCZ_00019204;geneID=LOCZ_00019204;gene_biotype=protein_coding;Note=Similar to PTBP1: Polypyrimidine tract-binding protein 1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	5042526	5053329	.	-	.	ID=LOCZ_00019203;geneID=LOCZ_00019203;gene_biotype=protein_coding;Note=Similar to Plppr3: Phospholipid phosphatase-related protein type 3 (Rattus norvegicus);;source=Liftoff
+CM113905.1	LiftOn	gene	5110589	5132552	.	-	.	ID=LOCZ_00019201;geneID=LOCZ_00019201;gene_biotype=protein_coding;Note=Similar to med16: Mediator of RNA polymerase II transcription subunit 16 (Xenopus tropicalis);;source=Liftoff
+CM113905.1	LiftOn	gene	5181787	5251773	.	+	.	ID=LOCZ_00019197;geneID=LOCZ_00019197;gene_biotype=protein_coding;Note=Similar to arid3a: AT-rich interactive domain-containing protein 3A (Xenopus laevis);;source=Liftoff
+CM113905.1	LiftOn	gene	5315793	5375086	.	-	.	ID=LOCZ_00019193;geneID=LOCZ_00019193;gene_biotype=protein_coding;Note=Similar to ARHGAP45: Rho GTPase-activating protein 45 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	5669439	5693398	.	+	.	ID=LOCZ_00019183;geneID=LOCZ_00019183;gene_biotype=protein_coding;Note=Similar to FZR1: Fizzy-related protein homolog (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	6059496	6131798	.	-	.	ID=LOCZ_00019169;geneID=LOCZ_00019169;gene_biotype=protein_coding;Note=Similar to ONECUT2: One cut domain family member 2 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	6307302	6398608	.	+	.	ID=LOCZ_00019168;geneID=LOCZ_00019168;gene_biotype=protein_coding;Note=Similar to Tcf3: Transcription factor E2-alpha (Rattus norvegicus);;source=Liftoff
+CM113905.1	LiftOn	gene	6419861	6430594	.	+	.	ID=LOCZ_00019166;geneID=LOCZ_00019166;gene_biotype=protein_coding;Note=Similar to MBD3: Methyl-CpG-binding domain protein 3 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	6545233	6605304	.	+	.	ID=LOCZ_00019162;geneID=LOCZ_00019162;gene_biotype=protein_coding;Note=Similar to Csnk1g2: Casein kinase I isoform gamma-2 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	6626437	6665774	.	-	.	ID=LOCZ_00019160;geneID=LOCZ_00019160;gene_biotype=protein_coding;Note=Similar to Mknk2: MAP kinase-interacting serine/threonine-protein kinase 2 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	6737837	6789181	.	-	.	ID=LOCZ_00019157;geneID=LOCZ_00019157;gene_biotype=protein_coding;Note=Similar to Ap3d1: AP-3 complex subunit delta-1 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	6806373	6914565	.	+	.	ID=LOCZ_00019156;geneID=LOCZ_00019156;gene_biotype=protein_coding;Note=Similar to DOT1L: Histone-lysine N-methyltransferase, H3 lysine-79 specific (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	7123524	7152018	.	-	.	ID=LOCZ_00019069;geneID=LOCZ_00019069;gene_biotype=protein_coding;Note=Similar to SAFB: Scaffold attachment factor B1 (Pongo abelii);;source=Liftoff
+CM113905.1	LiftOn	gene	7162650	7193051	.	+	.	ID=LOCZ_00019070;geneID=LOCZ_00019070;gene_biotype=protein_coding;Note=Similar to SAFB: Scaffold attachment factor B1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	8119723	8144155	.	-	.	ID=LOCZ_00019078;geneID=LOCZ_00019078;gene_biotype=protein_coding;Note=Similar to UHRF1: E3 ubiquitin-protein ligase UHRF1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	8288369	8337804	.	+	.	ID=LOCZ_00019083;geneID=LOCZ_00019083;gene_biotype=protein_coding;Note=Similar to dpp9: Dipeptidyl peptidase 9 (Danio rerio);;source=Liftoff
+CM113905.1	LiftOn	gene	8655871	8686099	.	+	.	ID=LOCZ_00019092;geneID=LOCZ_00019092;gene_biotype=protein_coding;Note=Similar to CHAF1A: Chromatin assembly factor 1 subunit A (Gallus gallus);;source=Liftoff
+CM113905.1	LiftOn	gene	8688354	8709574	.	-	.	ID=LOCZ_00019093;geneID=LOCZ_00019093;gene_biotype=protein_coding;Note=Similar to Ubxn6: UBX domain-containing protein 6 (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	8714165	8743700	.	+	.	ID=LOCZ_00019094;geneID=LOCZ_00019094;gene_biotype=protein_coding;Note=Similar to HDGFL2: Hepatoma-derived growth factor-related protein 2 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	8908919	8968214	.	-	.	ID=LOCZ_00019100;geneID=LOCZ_00019100;gene_biotype=protein_coding;Note=Similar to Sema6b: Semaphorin-6B (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	9588744	9622748	.	+	.	ID=LOCZ_00019116;geneID=LOCZ_00019116;gene_biotype=protein_coding;Note=Similar to MAP2K2: Dual specificity mitogen-activated protein kinase kinase 2 (Gallus gallus);;source=Liftoff
+CM113905.1	LiftOn	gene	9632075	9679046	.	+	.	ID=LOCZ_00019114;geneID=LOCZ_00019114;gene_biotype=protein_coding;Note=Similar to ZBTB7A: Zinc finger and BTB domain-containing protein 7A (Gallus gallus);;source=Liftoff
+CM113905.1	LiftOn	gene	9707933	9747659	.	+	.	ID=LOCZ_00019112;geneID=LOCZ_00019112;gene_biotype=protein_coding;Note=Similar to PIAS4: E3 SUMO-protein ligase PIAS4 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	9753389	9764168	.	+	.	ID=LOCZ_00019111;geneID=LOCZ_00019111;gene_biotype=protein_coding;Note=Similar to EEF2: Elongation factor 2 (Pongo abelii);;source=Liftoff
+CM113905.1	LiftOn	gene	9830734	9847836	.	+	.	ID=LOCZ_00019120;geneID=LOCZ_00019120;gene_biotype=protein_coding;Note=Similar to ELAVL1: ELAV-like protein 1 (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	10307567	10332478	.	-	.	ID=LOCZ_00019130;geneID=LOCZ_00019130;gene_biotype=protein_coding;Note=Similar to Hnrnpm: Heterogeneous nuclear ribonucleoprotein M (Mus musculus);;source=Liftoff
+CM113905.1	LiftOn	gene	10341042	10351977	.	-	.	ID=LOCZ_00019131;geneID=LOCZ_00019131;gene_biotype=protein_coding;Note=Similar to marchf2: E3 ubiquitin-protein ligase MARCHF2 (Xenopus laevis);;source=Liftoff
+CM113905.1	LiftOn	gene	10357669	10377203	.	-	.	ID=LOCZ_00019132;geneID=LOCZ_00019132;gene_biotype=protein_coding;Note=Similar to Ras-related protein Rab-11B (Diplobatis ommata);;source=Liftoff
+CM113905.1	LiftOn	gene	10489405	10521639	.	-	.	ID=LOCZ_00019137;geneID=LOCZ_00019137;gene_biotype=protein_coding;Note=Similar to rfx2: DNA-binding protein RFX2 (Xenopus tropicalis);;source=Liftoff
+CM113905.1	LiftOn	gene	10591347	10618054	.	-	.	ID=LOCZ_00019140;geneID=LOCZ_00019140;gene_biotype=protein_coding;Note=Similar to MLLT1: Protein ENL (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	11197682	11199196	.	+	.	ID=LOCZ_00019035;geneID=LOCZ_00019035;gene_biotype=protein_coding;Note=Similar to GADD45B: Growth arrest and DNA damage-inducible protein GADD45 beta (Homo sapiens);;source=Liftoff
+CM113905.1	LiftOn	gene	11819419	11823816	.	+	.	ID=LOCZ_00019051;geneID=LOCZ_00019051;gene_biotype=protein_coding;Note=Similar to ABHD8: Protein ABHD8 (Bos taurus);;source=Liftoff
+CM113905.1	LiftOn	gene	4387811	4388713	890	-	.	ID=LOCZ_00002393_1;geneID=LOCZ_00002393;gene_biotype=protein_coding;Note=function unknown;;extra_copy_number=1;source=miniprot
+CM113905.1	LiftOn	gene	5397408	5398520	1233	-	.	ID=LOCZ_00020637_4;geneID=LOCZ_00020637;gene_biotype=protein_coding;Note=Similar to pol: RNA-directed DNA polymerase from mobile element jockey (Drosophila melanogaster);;extra_copy_number=4;source=miniprot
+CM113905.1	LiftOn	gene	5810333	5810692	471	-	.	ID=LOCZ_00012321_1;geneID=LOCZ_00012321;gene_biotype=protein_coding;Note=function unknown;;extra_copy_number=1;source=miniprot
+CM113905.1	LiftOn	gene	5220358	5220978	800	+	.	ID=LOCZ_00008121_2;geneID=LOCZ_00008121;gene_biotype=protein_coding;Note=function unknown;;extra_copy_number=2;source=miniprot

@@ -1,0 +1,77 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=12;
+TAXLABELS
+[1] 'Candoia'
+[2] 'Thamnophis'
+[3] 'Heloderma_Z'
+[4] 'Heloderma_W'
+[5] 'Anniella'
+[6] 'Elgaria'
+[7] 'Shinisaurus'
+[8] 'Varanus_Z'
+[9] 'Varanus_W'
+[10] 'Furcifer'
+[11] 'Anolis'
+[12] 'Podarcis'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=12 nsplits=50;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 1,
+	100	 2,
+	100	 1 2,
+	100	 3,
+	100	 4,
+	100	 3 4,
+	100	 5,
+	100	 6,
+	100	 5 6,
+	58	 3 4 5 6,
+	100	 7,
+	100	 8,
+	100	 9,
+	100	 8 9,
+	19	 7 8 9,
+	100	 1 2 10 11 12,
+	72	 10 11 12,
+	100	 10,
+	100	 11,
+	93	 10 11,
+	100	 12,
+	14	 1 2 10 11,
+	5	 3 4 7 8 9,
+	1	 1 2 10,
+	26	 3 4 7,
+	45	 3 4 5 6 7,
+	4	 11 12,
+	10	 1 2 12,
+	2	 10 12,
+	1	 3 4 8 9,
+	31	 1 2 7 10 11 12,
+	12	 5 6 8 9,
+	2	 1 2 11 12,
+	2	 5 6 7,
+	2	 1 2 11,
+	0	 1 2 6 10 11 12,
+	0	 8 9 10,
+	0	 5 8 9,
+	0	 1 2 8 9,
+	0	 1 2 7 8 9,
+	0	 3 4 5 7,
+	0	 1 2 8 9 10 11,
+	0	 3 4 5,
+	1	 1 2 10 12,
+	1	 5 6 7 8 9,
+	0	 8 9 10 11 12,
+	0	 5 6 10 11 12,
+	0	 6 8 9,
+	0	 6 7 8 9,
+	0	 1 2 5 10 11 12,
+;
+END; [Splits]
+

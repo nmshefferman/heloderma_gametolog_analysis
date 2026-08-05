@@ -1,0 +1,50 @@
+W	W_name	W_start	W_end	Z	Z_name	Z_start	Z_end	dS
+LOC_00008121	NA	1328878	1329498	LOCZ_00008121	NA	5220358	5220978	0.0566
+LOC_00008416	pol: RNA-directed DNA polymerase from mobile element jockey	7564795	7565907	LOCZ_00020637	pol: RNA-directed DNA polymerase from mobile element jockey	5397408	5398520	0.0675
+LOC_00009757	NA	1525000	1525420	LOCZ_00012321	NA	5810333	5810692	0.1107
+LOC_00019035	GADD45B: Growth arrest and DNA damage-inducible protein GADD45 beta	9620117	9621634	LOCZ_00019035	GADD45B: Growth arrest and DNA damage-inducible protein GADD45 beta	11197682	11199196	-0.0000
+LOC_00019051	ABHD8: Protein ABHD8	4731807	4733391	LOCZ_00019051	ABHD8: Protein ABHD8	11819419	11823816	1.4808
+LOC_00019078	UHRF1: E3 ubiquitin-protein ligase UHRF1	7921462	7966910	LOCZ_00019078	UHRF1: E3 ubiquitin-protein ligase UHRF1	8119723	8144155	0.1465
+LOC_00019083	dpp9: Dipeptidyl peptidase 9	7057505	7130764	LOCZ_00019083	dpp9: Dipeptidyl peptidase 9	8288369	8337804	0.2108
+LOC_00019092	CHAF1A: Chromatin assembly factor 1 subunit A	8155534	8179674	LOCZ_00019092	CHAF1A: Chromatin assembly factor 1 subunit A	8655871	8686099	0.1429
+LOC_00019094	HDGFL2: Hepatoma-derived growth factor-related protein 2	3860028	3874698	LOCZ_00019094	HDGFL2: Hepatoma-derived growth factor-related protein 2	8714165	8743700	0.3918
+LOC_00019100	Sema6b: Semaphorin-6B	8479223	8526174	LOCZ_00019100	Sema6b: Semaphorin-6B	8908919	8968214	0.1781
+LOC_00019111	EEF2: Elongation factor 2	8951721	8962308	LOCZ_00019111	EEF2: Elongation factor 2	9753389	9764168	0.0777
+LOC_00019112	PIAS4: E3 SUMO-protein ligase PIAS4	8918004	8937358	LOCZ_00019112	PIAS4: E3 SUMO-protein ligase PIAS4	9707933	9747659	0.1029
+LOC_00019114	ZBTB7A: Zinc finger and BTB domain-containing protein 7A	9319938	9342562	LOCZ_00019114	ZBTB7A: Zinc finger and BTB domain-containing protein 7A	9632075	9679046	0.0868
+LOC_00019116	MAP2K2: Dual specificity mitogen-activated protein kinase kinase 2	3288129	3355197	LOCZ_00019116	MAP2K2: Dual specificity mitogen-activated protein kinase kinase 2	9588744	9622748	0.1548
+LOC_00019120	ELAVL1: ELAV-like protein 1	13750445	13774576	LOCZ_00019120	ELAVL1: ELAV-like protein 1	9830734	9847836	0.1092
+LOC_00019130	Hnrnpm: Heterogeneous nuclear ribonucleoprotein M	9226280	9249635	LOCZ_00019130	Hnrnpm: Heterogeneous nuclear ribonucleoprotein M	10307567	10332478	0.2137
+LOC_00019140	MLLT1: Protein ENL	5256272	5293257	LOCZ_00019140	MLLT1: Protein ENL	10591347	10618054	0.1715
+LOC_00019156	DOT1L: Histone-lysine N-methyltransferase, H3 lysine-79 specific	206459	283318	LOCZ_00019156	DOT1L: Histone-lysine N-methyltransferase, H3 lysine-79 specific	6806373	6914565	0.1201
+LOC_00019157	Ap3d1: AP-3 complex subunit delta-1	6382697	6501685	LOCZ_00019157	Ap3d1: AP-3 complex subunit delta-1	6737837	6789181	0.1024
+LOC_00019162	Csnk1g2: Casein kinase I isoform gamma-2	3724656	3753179	LOCZ_00019162	Csnk1g2: Casein kinase I isoform gamma-2	6545233	6605304	0.0613
+LOC_00019168	Tcf3: Transcription factor E2-alpha	6645516	6741210	LOCZ_00019168	Tcf3: Transcription factor E2-alpha	6307302	6398608	0.2090
+LOC_00019169	ONECUT2: One cut domain family member 2	6207984	6279358	LOCZ_00019169	ONECUT2: One cut domain family member 2	6059496	6131798	0.0067
+LOC_00019183	FZR1: Fizzy-related protein homolog	11123008	11139670	LOCZ_00019183	FZR1: Fizzy-related protein homolog	5669439	5693398	0.2449
+LOC_00019201	med16: Mediator of RNA polymerase II transcription subunit 16	5333009	5346876	LOCZ_00019201	med16: Mediator of RNA polymerase II transcription subunit 16	5110589	5132552	0.0699
+LOC_00019203	Plppr3: Phospholipid phosphatase-related protein type 3	5201386	5202688	LOCZ_00019203	Plppr3: Phospholipid phosphatase-related protein type 3	5042526	5053329	0.2120
+LOC_00019204	PTBP1: Polypyrimidine tract-binding protein 1	5107943	5150828	LOCZ_00019204	PTBP1: Polypyrimidine tract-binding protein 1	4987316	5017211	0.0936
+LOC_00019207	MIER2: Mesoderm induction early response protein 2	4995807	5018019	LOCZ_00019207	MIER2: Mesoderm induction early response protein 2	4850835	4867436	0.1421
+LOC_00019209	esg1: Transducin-like enhancer protein 1	4854784	4936150	LOCZ_00019209	esg1: Transducin-like enhancer protein 1	4711261	4748457	0.1690
+LOC_00019211	TLE5: TLE family member 5	1361297	1394611	LOCZ_00019211	TLE5: TLE family member 5	4632067	4655651	0.0820
+LOC_00019219	CELF5: CUGBP Elav-like family member 5	1495610	1590606	LOCZ_00019219	CELF5: CUGBP Elav-like family member 5	4387291	4445365	0.1578
+LOC_00019231	Hapln4: Hyaluronan and proteoglycan link protein 4	1492859	1493462	LOCZ_00019231	Hapln4: Hyaluronan and proteoglycan link protein 4	3560084	3571451	0.2856
+LOC_00019236	GATAD2A: Transcriptional repressor p66-alpha	5483120	5556776	LOCZ_00019236	GATAD2A: Transcriptional repressor p66-alpha	3612432	3621252	0.0993
+LOC_00019246	hsp30c: Heat shock protein 30C	9460693	9468584	LOCZ_00019246	hsp30c: Heat shock protein 30C	3770416	3771328	0.3316
+LOC_00019256	slc25a42: Mitochondrial coenzyme A transporter SLC25A42	12685695	12697802	LOCZ_00019256	slc25a42: Mitochondrial coenzyme A transporter SLC25A42	3337655	3343795	0.2534
+LOC_00019264	UPF1: Regulator of nonsense transcripts 1	2984406	3025023	LOCZ_00019264	UPF1: Regulator of nonsense transcripts 1	3123317	3150073	0.1542
+LOC_00019267	TMEM59L: Transmembrane protein 59-like	2638470	2660329	LOCZ_00019267	TMEM59L: Transmembrane protein 59-like	2972134	2986463	0.3099
+LOC_00019274	FSTL3: Follistatin-related protein 3	2741391	2755525	LOCZ_00019274	FSTL3: Follistatin-related protein 3	2878241	2891902	0.3846
+LOC_00019277	NA	2689071	2690584	LOCZ_00019277	NA	2812976	2814425	0.6590
+LOC_00019282	APC2: Adenomatous polyposis coli protein 2	7222191	7269933	LOCZ_00019282	APC2: Adenomatous polyposis coli protein 2	2719588	2747149	0.5498
+LOC_00019284	Rps15: Small ribosomal subunit protein uS19	7203535	7208176	LOCZ_00019284	Rps15: Small ribosomal subunit protein uS19	2697689	2700943	0.1405
+LOC_00019285	Dazap1: DAZ-associated protein 1	704786	778049	LOCZ_00019285	Dazap1: DAZ-associated protein 1	2653250	2695269	0.1461
+LOC_00019299	Cbarp: Voltage-dependent calcium channel beta subunit-associated regulatory protein	2505936	2524472	LOCZ_00019299	Cbarp: Voltage-dependent calcium channel beta subunit-associated regulatory protein	2216920	2233382	0.6430
+LOC_00019301	SBNO2: Protein strawberry notch homolog 2	2282129	2355742	LOCZ_00019301	SBNO2: Protein strawberry notch homolog 2	2089166	2126085	0.4574
+LOC_00019305	HCN2: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	2177230	2241698	LOCZ_00019305	HCN2: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	1994743	2028272	0.7577
+LOC_00019306	BSG: Basigin	2262141	2267407	LOCZ_00019306	BSG: Basigin	1962954	1981145	1.2743
+LOC_00019325	ELL: RNA polymerase II elongation factor ELL	11655802	11674993	LOCZ_00019325	ELL: RNA polymerase II elongation factor ELL	1646786	1673386	0.4357
+LOC_00019329	PGPEP1: Pyroglutamyl-peptidase 1	11215591	11245963	LOCZ_00019329	PGPEP1: Pyroglutamyl-peptidase 1	1557638	1574569	0.8126
+LOC_00019334	RAB3A: Ras-related protein Rab-3A	9390849	9408553	LOCZ_00019334	RAB3A: Ras-related protein Rab-3A	1405230	1413386	0.5334
+LOC_00019343	NA	4662991	4663903	LOCZ_00019343	NA	406918	407450	0.2278

@@ -1,0 +1,3 @@
+((((Anolis,Furcifer),(Candoia,Thamnophis)),(((Heloderma_Z,Heloderma_W),(Anniella,Elgaria)),(Shinisaurus,(Varanus_Z,Varanus_W)))),Podarcis);
+((((Anolis,Furcifer),(Candoia,Thamnophis)),(((Heloderma_Z,(Anniella,Elgaria)),(Shinisaurus,Varanus_Z)),(Heloderma_W,Varanus_W))),Podarcis);
+((Anolis:0.1132299468,Furcifer:0.1695972052)100:0.1135039270,((((Shinisaurus:0.0054139015,(Varanus_Z:0.0151636048,Varanus_W:0.0230323076)100:0.0424558864)44:0.0084394073,(Elgaria:0.0329372379,Anniella:0.0183600477)53:0.0058694682)33:0.0037802104,(Heloderma_Z:0.0118736894,Heloderma_W:0.0172497684)94:0.0118967078)34:0.0099905712,(Candoia:0.0172171538,Thamnophis:0.0826950226)99:0.0519221610)79:0.0255345803,Podarcis:0.0553161786);

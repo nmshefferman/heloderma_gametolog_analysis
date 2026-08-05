@@ -1,0 +1,133 @@
+      2    660
+
+SEQ1                            ATG GCT TCT GCC ACT GAT GCC CGC TAT GGC CAG AAG GAG TCC TCC GAC CAG AAC TTT GAC TAC ATG TTC AAG ATC CTG ATC ATC GGC AAC AGC AGC GTA GGG AAG ACA TCG TTC CTC TTC CGG TAT GCC GAC GAC TCC TTC ACC CCA GCC TTC GTC AGC ACT GTC GGC ATT GAC TTC AAA GTC AAG ACC ATC TAC CGC AAT GAC AAA CGC ATC AAG CTG CAG ATC TGG GAC ACA GCA GGG CAG GAA CGA TAC CGA ACC ATT ACC ACA GCC TAT TAT CGG GGA GCC ATG GGC TTC ATC CTG ATG TAT GAC ATC ACC AAT GAG GAG TCC TTC AAT GCA GTC CAG GAT TGG TCA ACC CAG ATC AAG ACA TAC TCA TGG GAC AAT GCC CAG GTG CTG CTG GTG GGG AAC AAG TGC GAC ATG GAA GAC GAG AGG GTC ATG TCG TCG GAG CGG GGC CGT CAG CTG GCT GAG CAC CTG GGG TTT GAG TTC TTC GAG GCC AGT GCT AAA GAC AAC ATC AAC GTC AAG CAG ACC TTT GAG CGC CTG GTA GAC ATC ATC TGC GAA AAG ATG TCT GAG TCA CTT GAC ACC GCT GAT CCA GCT GTG ACT GGG GTG AAG CAA GGC CCA CAG CTG AGT GAC CAG CAG GCA CCC CCA CAC CAG GAC TGT ACC TGC 
+SEQ2                            ATG GCT TCT GCC ACT GAT GCC CGC TAT GGC CAG AAG GAG TCC TCC GAC CAG AAC TTT GAC TAC ATG TTC AAG ATC CTG ATC ATC GGG AAC AGC AGC GTA GGG AAG ACG TCG TTC CTC TTC CGG TAT GCC GAC GAC TCC TTC ACC CCG GCC TTC GTC AGC ACT GTC GGC ATT GAC TTC AAA GTC AAG ACC ATC TAC CGC AAT GAC AAA CGC ATC AAG CTG CAG ATC TGG GAC ACA GCA GGG CAG GAA CGA TAC CGG ACC ATC ACC ACG GCC TAC TAC CGG GGA GCC ATG GGC TTC ATT CTG ATG TAC GAC ATC ACC AAC GAG GAA TCC TTC AAT GCC GTC CAG GAT TGG TCG ACC CAG ATC AAG ACG TAC TCC TGG GAC AAC GCA CAG GTG CTG CTG GTG GGC AAC AAG TGC GAC ATG GAG GAC GAG CGC GTG GTG TCG TCG GAG CGG GGC CGC CAG CTG GCC GAG CAC TTG GGT TTC GAG TTC TTC GAG GCC AGC GCC AAG GAC AAC ATC AAC GTC AAG CAG ACC TTT GAG CGC CTG GTG GAC ATC ATC TGC GAA AAG ATG TCG GAG TCG CTC GAC GCC GCC GAC CCG GCC GTG ACC GGG GCG AAG CAG GGC CCC CAG CTG AGC GAC CAG CAG GTG CCC CCG CAC CAG GAC TGT GCC TGC 
+
+
+
+Printing out site pattern counts
+
+
+         2        231  P
+
+SEQ1                            AAA AAA AAC AAG AAT AAT ACA ACA ACC ACC ACT ACT AGC AGG AGT ATC ATC ATG ATG ATT ATT CAA CAC CAG CCA CCA CCC CGA CGA CGC CGG CGT CTC CTG CTG CTT GAA GAA GAC GAG GAG GAT GAT GCA GCA GCA GCC GCC GCT GCT GGA GGC GGC GGG GGG GGG GTA GTA GTC GTC GTG GTG TAC TAT TAT TCA TCA TCC TCG TCT TCT TGC TGG TGT TTC TTT TTT 
+SEQ2                            ... ..G ... ... ..C ... ... ..G ... G.. ..C ... ... C.C ..C ... ..T ... G.. ..C ... ..G ... ... ..C ..G ... ... ..G ... ... ..C ... ... T.. ..C ... ..G ... ..A ... ..C ... ... ..C .TG ..A ... ..C ... ... ... ..G ..C ... ..T ... ..G ... ..G .C. ... ... ..C ... ..C ..G ... ... ..G ... ... ... ... ... ..C ... 
+
+    2    1    5   10    2    2    1    3    7    2    1    2    3    1    2
+   11    1    6    1    1    1    1    2   13    1    3    1    1    1    4
+    3    1    1    8    1    1    2    1   16    1    9    1    2    1    1
+    1    1    7    4    1    1    5    1    1    3    1    1    1    5    1
+    1    3    4    3    2    1    2    4    3    1    1    3    3    1   10
+    1    2
+
+YN00 paml/jobs/LOC_00019334__LOCZ_00019334/LOC_00019334__LOCZ_00019334.phy
+
+ns =   2	ls = 220
+
+Codon position x base (3x4) table for each sequence.
+
+SEQ1                
+position  1:    T:0.18636    C:0.19091    A:0.29545    G:0.32727
+position  2:    T:0.25909    C:0.22273    A:0.35909    G:0.15909
+position  3:    T:0.14545    C:0.42727    A:0.11818    G:0.30909
+
+SEQ2                
+position  1:    T:0.19091    C:0.19091    A:0.27727    G:0.34091
+position  2:    T:0.25909    C:0.22273    A:0.35909    G:0.15909
+position  3:    T:0.07273    C:0.50909    A:0.05000    G:0.36818
+
+Average
+position  1:    T:0.18864    C:0.19091    A:0.28636    G:0.33409
+position  2:    T:0.25909    C:0.22273    A:0.35909    G:0.15909
+position  3:    T:0.10909    C:0.46818    A:0.08409    G:0.33864
+
+Codon usage for each species
+----------------------------------------------------------------------
+Phe TTT   3   2 | Ser TCT   2   1 | Tyr TAT   5   2 | Cys TGT   1   1
+    TTC  10  11 |     TCC   4   5 |     TAC   4   7 |     TGC   3   3
+Leu TTA   0   0 |     TCA   3   0 | *** TAA   0   0 | *** TGA   0   0
+    TTG   0   1 |     TCG   3   6 |     TAG   0   0 | Trp TGG   3   3
+----------------------------------------------------------------------
+Leu CTT   1   0 | Pro CCT   0   0 | His CAT   0   0 | Arg CGT   1   0
+    CTC   1   2 |     CCC   1   2 |     CAC   2   2 |     CGC   4   6
+    CTA   0   0 |     CCA   4   0 | Gln CAA   1   0 |     CGA   2   1
+    CTG   9   8 |     CCG   0   3 |     CAG  13  14 |     CGG   3   4
+----------------------------------------------------------------------
+Ile ATT   2   2 | Thr ACT   3   2 | Asn AAT   4   2 | Ser AGT   2   0
+    ATC  12  12 |     ACC   9   8 |     AAC   5   7 |     AGC   3   5
+    ATA   0   0 |     ACA   4   1 | Lys AAA   3   2 | Arg AGA   0   0
+Met ATG   7   6 |     ACG   0   3 |     AAG  10  11 |     AGG   1   0
+----------------------------------------------------------------------
+Val GTT   0   0 | Ala GCT   5   1 | Asp GAT   3   2 | Gly GGT   0   1
+    GTC   6   5 |     GCC   8  14 |     GAC  16  17 |     GGC   6   6
+    GTA   2   1 |     GCA   3   2 | Glu GAA   3   3 |     GGA   1   1
+    GTG   4   7 |     GCG   0   1 |     GAG  10  10 |     GGG   5   4
+----------------------------------------------------------------------
+
+
+Sums
+------------------------------------------------------
+Phe TTT   5 | Ser TCT   3 | Tyr TAT   7 | Cys TGT   2
+    TTC  21 |     TCC   9 |     TAC  11 |     TGC   6
+Leu TTA   0 |     TCA   3 | *** TAA   0 | *** TGA   0
+    TTG   1 |     TCG   9 |     TAG   0 | Trp TGG   6
+------------------------------------------------------
+Leu CTT   1 | Pro CCT   0 | His CAT   0 | Arg CGT   1
+    CTC   3 |     CCC   3 |     CAC   4 |     CGC  10
+    CTA   0 |     CCA   4 | Gln CAA   1 |     CGA   3
+    CTG  17 |     CCG   3 |     CAG  27 |     CGG   7
+------------------------------------------------------
+Ile ATT   4 | Thr ACT   5 | Asn AAT   6 | Ser AGT   2
+    ATC  24 |     ACC  17 |     AAC  12 |     AGC   8
+    ATA   0 |     ACA   5 | Lys AAA   5 | Arg AGA   0
+Met ATG  13 |     ACG   3 |     AAG  21 |     AGG   1
+------------------------------------------------------
+Val GTT   0 | Ala GCT   6 | Asp GAT   5 | Gly GGT   1
+    GTC  11 |     GCC  22 |     GAC  33 |     GGC  12
+    GTA   3 |     GCA   5 | Glu GAA   6 |     GGA   2
+    GTG  11 |     GCG   1 |     GAG  20 |     GGG   9
+------------------------------------------------------
+
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+SEQ1                
+SEQ2                 0.0314 (0.0118 0.3768)
+
+
+(B) Yang & Nielsen (2000) method
+
+Yang Z, Nielsen R (2000) Estimating synonymous and nonsynonymous substitution rates under realistic evolutionary models. Mol. Biol. Evol. 17:32-43
+
+(equal weighting of pathways)
+
+seq. seq.     S       N        t   kappa   omega     dN +- SE    dS +- SE
+
+   2    1   125.6   534.4   0.3321  8.3703  0.0213 0.0113 +- 0.0046  0.5334 +- 0.1090
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+Li W.-H., C.-I. Wu, Luo (1985) A new method for estimating synonymous and nonsynonymous rates of nucleotide substitutions considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2: 150-174.
+Li W-H (1993) Unbiased estimation of the rates of synonymous and nonsynonymous substitution. J. Mol. Evol. 36:96-99
+Pamilo P, Bianchi NO (1993) Evolution of the Zfx and Zfy genes - rates and interdependence between the genes. Mol. Biol. Evol. 10:271-281
+Yang Z (2006) Computational Molecular Evolution. Oxford University Press, Oxford. Eqs. 2.12 & 2.13
+
+2 (SEQ2) vs. 1 (SEQ1)
+
+L(i):      435.0     130.5      94.5  sum=    660.0
+Ns(i):    5.0000   16.0000   18.0000  sum=  39.0000
+Nv(i):    0.5000    1.0000    9.5000  sum=  11.0000
+A(i):     0.0116    0.1419    0.2723
+B(i):     0.0012    0.0077    0.1122
+LWL85:  dS =  0.3975 dN =  0.0126 w = 0.0317 S =  138.0 N =  522.0
+LWL85m: dS =  0.2935 dN =  0.0139 w = 0.0473 S =  186.9 N =  473.1 (rho = 0.708)
+LPB93:  dS =  0.3089 dN =  0.0143 w = 0.0463
+

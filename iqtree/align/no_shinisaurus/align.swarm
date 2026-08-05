@@ -1,0 +1,9 @@
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019157.fasta" -o=align/no_shinisaurus/LOC_00019157.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019162.fasta" -o=align/no_shinisaurus/LOC_00019162.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019168.fasta" -o=align/no_shinisaurus/LOC_00019168.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019169.fasta" -o=align/no_shinisaurus/LOC_00019169.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019211.fasta" -o=align/no_shinisaurus/LOC_00019211.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019236.fasta" -o=align/no_shinisaurus/LOC_00019236.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019256.fasta" -o=align/no_shinisaurus/LOC_00019256.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019264.fasta" -o=align/no_shinisaurus/LOC_00019264.prank -codon -F
+prank -d="iqtree_fastas/no_shinisaurus/LOC_00019334.fasta" -o=align/no_shinisaurus/LOC_00019334.prank -codon -F
