@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/all_species/clean_fastas/LOC_00019325.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 453860
+Random seed number: 291595
 
 REFERENCES
 ----------
@@ -153,7 +153,7 @@ Corrected Akaike information criterion (AICc) score: 22574.8127
 Bayesian information criterion (BIC) score: 22730.1576
 
 Total tree length (sum of branch lengths): 1.7406
-Sum of internal branch lengths: 0.3676 (21.1188% of tree length)
+Sum of internal branch lengths: 0.3676 (21.1170% of tree length)
 
 NOTE: Tree is UNROOTED although outgroup taxon 'Podarcis' is drawn at root
 Numbers in parentheses are  ultrafast bootstrap support (%)
@@ -175,7 +175,7 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
      |     |  |      +-------Anniella
      |     |  +------| (100)
      |     |         +--------Elgaria
-     |  +--| (86)
+     |  +--| (87)
      |  |  +---------Shinisaurus
      +--| (92)
         |         +---------------------------------------Varanus_Z
@@ -184,13 +184,13 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 
 Tree in newick format:
 
-((Anolis:0.2967567465,Furcifer:0.2579349493)45:0.0235713244,Podarcis:0.1652623616,((Candoia:0.0162978358,Thamnophis:0.0543031126)100:0.1267860950,((((Heloderma_Z:0.0243993856,Heloderma_W:0.0377552809)100:0.0459484821,(Anniella:0.0429705866,Elgaria:0.0502137301)100:0.0407777199)97:0.0160158825,Shinisaurus:0.0553804860)86:0.0128665876,(Varanus_Z:0.2162224818,Varanus_W:0.1554938403)98:0.0559184052)92:0.0165918466)79:0.0291143125);
+((Anolis:0.2967599356,Furcifer:0.2579370702)45:0.0235672009,Podarcis:0.1652624490,((Candoia:0.0162966291,Thamnophis:0.0543038433)100:0.1267868616,((((Heloderma_Z:0.0244000939,Heloderma_W:0.0377555111)100:0.0459489569,(Anniella:0.0429696472,Elgaria:0.0502143515)100:0.0407778466)97:0.0160153071,Shinisaurus:0.0553802551)87:0.0128676721,(Varanus_Z:0.2162451996,Varanus_W:0.1555041358)98:0.0558893309)92:0.0165911903)79:0.0291151973);
 
 CONSENSUS TREE
 --------------
 
 Consensus tree is constructed from 10000 bootstrap trees
-Log-likelihood of consensus tree: -11258.984785
+Log-likelihood of consensus tree: -11258.984751
 Robinson-Foulds distance between ML tree and consensus tree: 0
 
 Branches with support >0.000000% are kept (extended consensus)
@@ -214,7 +214,7 @@ Numbers in parentheses are bootstrap supports (%)
      |     |  |      +-------Anniella
      |     |  +------| (100)
      |     |         +--------Elgaria
-     |  +--| (86)
+     |  +--| (87)
      |  |  +---------Shinisaurus
      +--| (92)
         |         +---------------------------------------Varanus_Z
@@ -224,7 +224,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-((Anolis:0.2967707683,Furcifer:0.2579457704)45:0.0235632535,Podarcis:0.1652660430,((Candoia:0.0162935238,Thamnophis:0.0543054510)100:0.1267937643,((((Heloderma_Z:0.0243992152,Heloderma_W:0.0377587997)100:0.0459515096,(Anniella:0.0429727562,Elgaria:0.0502150396)100:0.0407788711)97:0.0160142558,Shinisaurus:0.0553850696)86:0.0128553100,(Varanus_Z:0.2161497572,Varanus_W:0.1554568304)98:0.0560291105)92:0.0165976924)79:0.0291133502);
+((Anolis:0.2967624417,Furcifer:0.2579384408)45:0.0235612882,Podarcis:0.1652593080,((Candoia:0.0162929802,Thamnophis:0.0543039105)100:0.1267884707,((((Heloderma_Z:0.0243986948,Heloderma_W:0.0377560087)100:0.0459510996,(Anniella:0.0429681254,Elgaria:0.0502145788)100:0.0407771499)97:0.0160134507,Shinisaurus:0.0553811895)87:0.0128627414,(Varanus_Z:0.2162529008,Varanus_W:0.1555079632)98:0.0558733208)92:0.0165956607)79:0.0291154694);
 
 
 USER TREES
@@ -234,9 +234,8 @@ See all_species/stats/LOC_00019325.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -11276.31787  17.333  0.0086 - 0.0136 -  0.259 + 0.0136 - 0.0214 -    0.0101 -  0.00681 - 
-  2 -11440.74384  181.76       0 -      0 -      0 -      0 -      0 -  4.98e-43 - 1.41e-131 - 
-  3 -11258.98474       0   0.991 +  0.986 +      1 +  0.986 +  0.999 +      0.99 +    0.993 + 
+  1 -11276.31779       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -11440.74387  164.43       0 -      0 -      0 -      0 -      0 -  1.49e-33 -  1.7e-57 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -255,7 +254,7 @@ ALISIM COMMAND
 --------------
 To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
 
---alisim simulated_MSA -t all_species/stats/LOC_00019325.treefile -m "TIM2{0.642281,2.99652,4.21917}+F{0.249567,0.313581,0.276288,0.160563}+G4{0.67314}" --length 1955
+--alisim simulated_MSA -t all_species/stats/LOC_00019325.treefile -m "TIM2{0.642278,2.99652,4.21917}+F{0.249567,0.313581,0.276288,0.160563}+G4{0.67314}" --length 1955
 
 To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
 
@@ -270,7 +269,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:40:28 2026
-Total CPU time used: 10.5 seconds (0h:0m:10s)
-Total wall-clock time used: 12.6 seconds (0h:0m:12s)
+Date and time: Tue Aug 25 13:46:27 2026
+Total CPU time used: 7.26 seconds (0h:0m:7s)
+Total wall-clock time used: 9.1 seconds (0h:0m:9s)
 

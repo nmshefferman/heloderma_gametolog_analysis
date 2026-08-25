@@ -947,31 +947,21 @@ Once the trees are made, we want to make sure that we can support our species-tr
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests
 
-# Combine the species tree, the alternate tree, and the gene tree into one Newick file (format needed for topology tests)
-mkdir -p all_species/candidate_trees
-
-for tree in ../make_trees/all_species/*.treefile
-do
-    base=$(basename "$tree" .treefile)
-
-    cat all_species/species.tree all_species/alternate.tree "$tree" > all_species/candidate_trees/${base}_candidates.treels
-done
-
 # Make swarm file that runs a topology test on each tree (will output many files, only need .iqtree files)
-mkdir all_species/stats
+mkdir -p all_species/stats
 
-for f in ../align/all_species/clean_fastas/LOC_*
+for f in ../align/all_species/clean_fastas/LOC_*.fasta
 do
     base=$(basename "$f" .fasta)
 
-    echo "iqtree2 -s $f -B 10000 -z all_species/candidate_trees/${base}_candidates.treels -au -zb 10000 -zw -o Podarcis --prefix all_species/stats/${base} -T 1"
+    echo "iqtree2 -s $f -B 10000 -z all_species/topologies.treels -au -zb 10000 -zw -o Podarcis --prefix all_species/stats/${base} -T 1"
 done > all_species/topology.swarm
 
 module load iqtree
 swarm -f all_species/topology.swarm
 
 # After swarm finishes, run:
-find all_species/stats -type f ! -name "*.iqtree" -delete
+find all_species/stats -type f ! -name "*.iqtree" ! -name "*.trees" -delete
 ```
 **Output:** `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests/all_species/stats`
 
@@ -979,31 +969,21 @@ find all_species/stats -type f ! -name "*.iqtree" -delete
 ```
 cd /data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests
 
-# Combine the species tree, the alternate tree, and the gene tree into one Newick file (format needed for topology tests)
-mkdir -p no_shinisaurus/candidate_trees
-
-for tree in ../make_trees/no_shinisaurus/*.treefile
-do
-    base=$(basename "$tree" .treefile)
-
-    cat no_shinisaurus/species.tree no_shinisaurus/alternate.tree "$tree" > no_shinisaurus/candidate_trees/${base}_candidates.treels
-done
-
 # Make swarm file that runs a topology test on each tree (will output many files, only need .iqtree files)
-mkdir no_shinisaurus/stats
+mkdir -p no_shinisaurus/stats
 
-for f in ../align/no_shinisaurus/clean_fastas/LOC_*
+for f in ../align/no_shinisaurus/clean_fastas/LOC_*.fasta
 do
     base=$(basename "$f" .fasta)
 
-    echo "iqtree2 -s $f -B 10000 -z no_shinisaurus/candidate_trees/${base}_candidates.treels -au -zb 10000 -zw -o Podarcis --prefix no_shinisaurus/stats/${base} -T 1"
+    echo "iqtree2 -s $f -B 10000 -z no_shinisaurus/topologies_no_shin.treels -au -zb 10000 -zw -o Podarcis --prefix no_shinisaurus/stats/${base} -T 1"
 done > no_shinisaurus/topology.swarm
 
 module load iqtree
 swarm -f no_shinisaurus/topology.swarm
 
 # After swarm finishes, run:
-find no_shinisaurus/stats -type f ! -name "*.iqtree" -delete
+find no_shinisaurus/stats -type f ! -name "*.iqtree" ! -name "*.trees" -delete
 ```
 **Output:** `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests/no_shinisaurus/stats`
 
@@ -1017,3 +997,5 @@ chmod u+x 18d_combine_topology_results.sh
 ./18d_combine_topology_results.sh
 ```
 **Output:** `/data/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests/tree_topology_results.tsv`
+
+! NOTE: a p-AU value closer to 1 means the test **fails to reject** that tree as a true topology

@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/no_shinisaurus/clean_fastas/LOC_00019236.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 649647
+Random seed number: 287854
 
 REFERENCES
 ----------
@@ -275,9 +275,8 @@ See no_shinisaurus/stats/LOC_00019236.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -8550.281912  12.555  0.0425 - 0.0496 -  0.343 + 0.0496 - 0.0902 +    0.0469 -    0.038 - 
-  2 -8778.455339  240.73       0 -      0 -      0 -      0 -      0 -  9.67e-63 - 3.72e-05 - 
-  3 -8537.726893       0   0.958 +   0.95 +      1 +   0.95 +  0.993 +     0.953 +    0.962 + 
+  1 -8550.281367       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -8778.454754  228.17       0 -      0 -      0 -      0 -      0 -  3.14e-64 - 6.99e-48 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -311,7 +310,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:53:42 2026
-Total CPU time used: 7.03 seconds (0h:0m:7s)
-Total wall-clock time used: 8.89 seconds (0h:0m:8s)
+Date and time: Tue Aug 25 14:11:42 2026
+Total CPU time used: 6.1 seconds (0h:0m:6s)
+Total wall-clock time used: 7.8 seconds (0h:0m:7s)
 

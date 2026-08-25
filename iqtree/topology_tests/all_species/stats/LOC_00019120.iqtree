@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/all_species/clean_fastas/LOC_00019120.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 550849
+Random seed number: 351775
 
 REFERENCES
 ----------
@@ -176,42 +176,42 @@ Model of substitution: TNe+I+R2
 Rate parameter R:
 
   A-C: 1.0000
-  A-G: 4.3192
+  A-G: 4.3197
   A-T: 1.0000
   C-G: 1.0000
-  C-T: 10.2114
+  C-T: 10.2110
   G-T: 1.0000
 
 State frequencies: (equal frequencies)
 
 Rate matrix Q:
 
-  A    -0.682    0.1079    0.4662    0.1079
+  A   -0.6821    0.1079    0.4662    0.1079
   C    0.1079    -1.318    0.1079     1.102
-  G    0.4662    0.1079    -0.682    0.1079
+  G    0.4662    0.1079   -0.6821    0.1079
   T    0.1079     1.102    0.1079    -1.318
 
 Model of rate heterogeneity: Invar+FreeRate with 2 categories
-Proportion of invariable sites: 0.6862
-Site proportion and rates:  (0.2543,1.497) (0.05953,10.4)
+Proportion of invariable sites: 0.6863
+Site proportion and rates:  (0.2543,1.498) (0.05945,10.41)
 
  Category  Relative_rate  Proportion
-  0         0              0.6862
-  1         1.497          0.2543
-  2         10.4           0.05953
+  0         0              0.6863
+  1         1.498          0.2543
+  2         10.41          0.05945
 
 MAXIMUM LIKELIHOOD TREE
 -----------------------
 
-Log-likelihood of the tree: -3490.2292 (s.e. 122.9874)
+Log-likelihood of the tree: -3490.2287 (s.e. 122.9887)
 Unconstrained log-likelihood (without tree): -2771.1089
 Number of free parameters (#branches + #model parameters): 26
-Akaike information criterion (AIC) score: 7032.4585
-Corrected Akaike information criterion (AICc) score: 7033.9164
-Bayesian information criterion (BIC) score: 7159.7988
+Akaike information criterion (AIC) score: 7032.4574
+Corrected Akaike information criterion (AICc) score: 7033.9153
+Bayesian information criterion (BIC) score: 7159.7977
 
 Total tree length (sum of branch lengths): 0.8355
-Sum of internal branch lengths: 0.2734 (32.7225% of tree length)
+Sum of internal branch lengths: 0.2734 (32.7231% of tree length)
 
 NOTE: Tree is UNROOTED although outgroup taxon 'Podarcis' is drawn at root
 Numbers in parentheses are  ultrafast bootstrap support (%)
@@ -221,34 +221,34 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 |                       +----------------------------------Furcifer
 |
 |             +--Shinisaurus
-|          +--| (45)
+|          +--| (43)
 |          |  |       +--Varanus_Z
 |          |  +-------| (100)
 |          |          +---Varanus_W
-|       +--| (34)
+|       +--| (33)
 |       |  |  +-----Elgaria
-|       |  +--| (52)
+|       |  +--| (53)
 |       |     +--Anniella
-|    +--| (35)
+|    +--| (34)
 |    |  |  +--Heloderma_Z
-|    |  +--| (94)
+|    |  +--| (95)
 |    |     +--Heloderma_W
 +----| (80)
 |    |          +--Candoia
-|    +----------| (99)
+|    +----------| (100)
 |               +----------------Thamnophis
 |
 +----------Podarcis
 
 Tree in newick format:
 
-((Anolis:0.1132407590,Furcifer:0.1696078107)100:0.1135133521,((((Shinisaurus:0.0054142633,(Varanus_Z:0.0151618136,Varanus_W:0.0230334628)100:0.0424562547)45:0.0084386133,(Elgaria:0.0329386058,Anniella:0.0183610152)52:0.0058694106)34:0.0037804202,(Heloderma_Z:0.0118739530,Heloderma_W:0.0172505342)94:0.0118977607)35:0.0099922574,(Candoia:0.0172187157,Thamnophis:0.0826967790)99:0.0519233897)80:0.0255336702,Podarcis:0.0553230226);
+((Anolis:0.1132248552,Furcifer:0.1695968618)100:0.1135056722,((((Shinisaurus:0.0054138251,(Varanus_Z:0.0151640267,Varanus_W:0.0230318333)100:0.0424560615)43:0.0084394849,(Elgaria:0.0329367172,Anniella:0.0183597047)53:0.0058694916)33:0.0037801093,(Heloderma_Z:0.0118733882,Heloderma_W:0.0172495067)95:0.0118965296)34:0.0099897655,(Candoia:0.0172162145,Thamnophis:0.0826960037)100:0.0519233091)80:0.0255324490,Podarcis:0.0553169569);
 
 CONSENSUS TREE
 --------------
 
 Consensus tree is constructed from 10000 bootstrap trees
-Log-likelihood of consensus tree: -3493.324272
+Log-likelihood of consensus tree: -3493.326892
 Robinson-Foulds distance between ML tree and consensus tree: 6
 
 Branches with support >0.000000% are kept (extended consensus)
@@ -260,21 +260,21 @@ Numbers in parentheses are bootstrap supports (%)
 |                      +-----------------------------------Furcifer
 |
 |             +--Shinisaurus
-|          +--| (49)
+|          +--| (50)
 |          |  |        +--Varanus_Z
 |          |  |  +-----| (100)
 |          |  |  |     +---Varanus_W
-|          |  +--| (50)
+|          |  +--| (52)
 |          |     |          +--Candoia
-|          |     +----------| (99)
+|          |     +----------| (100)
 |          |                +-----------------Thamnophis
-|       +--| (27)
+|       +--| (26)
 |       |  |  +--Heloderma_Z
-|       |  +--| (94)
+|       |  +--| (95)
 |       |     +--Heloderma_W
 +-------| (80)
 |       |  +-----Elgaria
-|       +--| (52)
+|       +--| (53)
 |          +---Anniella
 |
 +-----------Podarcis
@@ -282,7 +282,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-((Anolis:0.1104347088,Furcifer:0.1628069320)100:0.1078607135,(((Shinisaurus:0.0060956967,((Varanus_Z:0.0147750421,Varanus_W:0.0224504644)100:0.0288216969,(Candoia:0.0148175222,Thamnophis:0.0834971748)99:0.0511065691)50:0.0138022318)49:0.0080856026,(Heloderma_Z:0.0111938347,Heloderma_W:0.0174148034)94:0.0137987154)27:0.0016601248,(Elgaria:0.0311118089,Anniella:0.0182398830)52:0.0046242073)80:0.0362277977,Podarcis:0.0561151730);
+((Anolis:0.1104217115,Furcifer:0.1627971190)100:0.1078510679,(((Shinisaurus:0.0060935170,((Varanus_Z:0.0147728964,Varanus_W:0.0224516813)100:0.0288260863,(Candoia:0.0148162342,Thamnophis:0.0834832302)100:0.0511134642)52:0.0137974416)50:0.0080854656,(Heloderma_Z:0.0111924588,Heloderma_W:0.0174125292)95:0.0137970841)26:0.0016618171,(Elgaria:0.0311074382,Anniella:0.0182369514)53:0.0046225889)80:0.0362249461,Podarcis:0.0561081321);
 
 
 USER TREES
@@ -292,9 +292,8 @@ See all_species/stats/LOC_00019120.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -3495.897564  5.6685   0.169 +  0.167 +  0.477 +  0.167 +  0.324 +     0.181 +    0.163 + 
-  2 -3566.780956  76.552       0 -      0 -      0 -      0 -      0 -  1.61e-13 -  1.9e-50 - 
-  3 -3490.229045       0   0.831 +  0.833 +      1 +  0.833 +  0.932 +     0.819 +    0.837 + 
+  1 -3495.930009       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -3566.787592  70.858       0 -      0 -      0 -      0 -      0 -  6.05e-13 -    5e-08 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -313,7 +312,7 @@ ALISIM COMMAND
 --------------
 To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
 
---alisim simulated_MSA -t all_species/stats/LOC_00019120.treefile -m "TNe{4.31917,10.2114}+FQ+I{0.686197}+R2{0.254276,1.49734,0.0595268,10.4031}" --length 990
+--alisim simulated_MSA -t all_species/stats/LOC_00019120.treefile -m "TNe{4.31974,10.211}+FQ+I{0.686261}+R2{0.254288,1.49827,0.0594517,10.412}" --length 990
 
 To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
 
@@ -328,7 +327,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:40:21 2026
-Total CPU time used: 4.83 seconds (0h:0m:4s)
-Total wall-clock time used: 5.98 seconds (0h:0m:5s)
+Date and time: Tue Aug 25 13:46:24 2026
+Total CPU time used: 4.86 seconds (0h:0m:4s)
+Total wall-clock time used: 6.07 seconds (0h:0m:6s)
 

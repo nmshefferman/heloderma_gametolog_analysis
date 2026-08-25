@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/no_shinisaurus/clean_fastas/LOC_00019264.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 694075
+Random seed number: 370618
 
 REFERENCES
 ----------
@@ -182,15 +182,15 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
                                             +-----Candoia
            +--------------------------------| (100)
            |                                +-------------Thamnophis
-        +--| (43)
+        +--| (44)
         |  |  +-----Heloderma_Z
         |  +--| (91)
         |     +-------Heloderma_W
-     +--| (40)
+     +--| (39)
      |  |       +------Anniella
      |  +-------| (100)
      |          +----------Elgaria
-+----| (85)
++----| (87)
 |    |                      +----------Varanus_W
 |    +----------------------| (100)
 |                           +---Varanus_Z
@@ -203,13 +203,13 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 
 Tree in newick format:
 
-(((((Candoia:0.0236268739,Thamnophis:0.0541074286)100:0.1233429561,(Heloderma_Z:0.0231051650,Heloderma_W:0.0324642863)91:0.0081542089)43:0.0079473738,(Anniella:0.0294166286,Elgaria:0.0432218745)100:0.0314815452)40:0.0140423120,(Varanus_W:0.0413190963,Varanus_Z:0.0172333921)100:0.0870283522)85:0.0216075907,(Furcifer:0.1102381655,Anolis:0.1574647718)76:0.0357639722,Podarcis:0.0785377292);
+(((((Candoia:0.0236268739,Thamnophis:0.0541074286)100:0.1233429561,(Heloderma_Z:0.0231051650,Heloderma_W:0.0324642863)91:0.0081542089)44:0.0079473738,(Anniella:0.0294166286,Elgaria:0.0432218745)100:0.0314815452)39:0.0140423120,(Varanus_W:0.0413190963,Varanus_Z:0.0172333921)100:0.0870283522)87:0.0216075907,(Furcifer:0.1102381655,Anolis:0.1574647718)76:0.0357639722,Podarcis:0.0785377292);
 
 CONSENSUS TREE
 --------------
 
 Consensus tree is constructed from 10000 bootstrap trees
-Log-likelihood of consensus tree: -13708.108614
+Log-likelihood of consensus tree: -13708.108613
 Robinson-Foulds distance between ML tree and consensus tree: 0
 
 Branches with support >0.000000% are kept (extended consensus)
@@ -219,15 +219,15 @@ Numbers in parentheses are bootstrap supports (%)
                                             +-----Candoia
            +--------------------------------| (100)
            |                                +-------------Thamnophis
-        +--| (43)
+        +--| (44)
         |  |  +-----Heloderma_Z
         |  +--| (91)
         |     +-------Heloderma_W
-     +--| (40)
+     +--| (39)
      |  |       +------Anniella
      |  +-------| (100)
      |          +----------Elgaria
-+----| (85)
++----| (87)
 |    |                      +----------Varanus_W
 |    +----------------------| (100)
 |                           +---Varanus_Z
@@ -241,7 +241,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-(((((Candoia:0.0236473391,Thamnophis:0.0540115609)100:0.1231930769,(Heloderma_Z:0.0230860665,Heloderma_W:0.0324326230)91:0.0081470822)43:0.0079545242,(Anniella:0.0293968276,Elgaria:0.0431824530)100:0.0314543648)40:0.0140499065,(Varanus_W:0.0413086249,Varanus_Z:0.0172148145)100:0.0869629537)85:0.0216148482,(Furcifer:0.1101613713,Anolis:0.1573654878)76:0.0357988468,Podarcis:0.0784726660);
+(((((Candoia:0.0236470788,Thamnophis:0.0540118106)100:0.1231931243,(Heloderma_Z:0.0230860714,Heloderma_W:0.0324326765)91:0.0081471923)44:0.0079553439,(Anniella:0.0293985127,Elgaria:0.0431810086)100:0.0314536725)39:0.0140497268,(Varanus_W:0.0413087385,Varanus_Z:0.0172147476)100:0.0869629878)87:0.0216147474,(Furcifer:0.1101614074,Anolis:0.1573656427)76:0.0357987550,Podarcis:0.0784728626);
 
 
 USER TREES
@@ -251,9 +251,8 @@ See no_shinisaurus/stats/LOC_00019264.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -13716.82468  8.7161   0.212 +   0.21 +    0.5 +   0.21 +  0.378 +     0.215 +    0.205 + 
-  2 -13945.94773  237.84       0 -      0 -      0 -      0 -      0 -  5.24e-65 - 3.57e-06 - 
-  3 -13708.10862       0   0.787 +   0.79 +      1 +   0.79 +  0.916 +     0.785 +    0.795 + 
+  1 -13718.91881       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -13947.86079  228.94       0 -      0 -      0 -      0 -      0 -  2.46e-61 - 1.24e-64 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -287,7 +286,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:53:44 2026
-Total CPU time used: 7.67 seconds (0h:0m:7s)
-Total wall-clock time used: 10.8 seconds (0h:0m:10s)
+Date and time: Tue Aug 25 14:11:46 2026
+Total CPU time used: 8.31 seconds (0h:0m:8s)
+Total wall-clock time used: 11.8 seconds (0h:0m:11s)
 

@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/all_species/clean_fastas/LOC_00019183.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 421894
+Random seed number: 313662
 
 REFERENCES
 ----------
@@ -195,13 +195,13 @@ Corrected Akaike information criterion (AICc) score: 13053.6150
 Bayesian information criterion (BIC) score: 13195.6493
 
 Total tree length (sum of branch lengths): 1.0410
-Sum of internal branch lengths: 0.3148 (30.2376% of tree length)
+Sum of internal branch lengths: 0.3148 (30.2375% of tree length)
 
 NOTE: Tree is UNROOTED although outgroup taxon 'Podarcis' is drawn at root
 Numbers in parentheses are  ultrafast bootstrap support (%)
 
          +----------------------------------------Anolis
-+--------| (84)
++--------| (83)
 |        +-----------------------------------------------Furcifer
 |
 +--------------------------------------------Podarcis
@@ -209,11 +209,11 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 |                        +--------Heloderma_Z
 |                    +---| (98)
 |                    |   +---------Heloderma_W
-|                 +--| (90)
+|                 +--| (89)
 |                 |  |     +----------Elgaria
 |                 |  +-----| (100)
 |                 |        +--------Anniella
-|              +--| (41)
+|              +--| (32)
 |              |  +--------Shinisaurus
 |       +------| (85)
 |       |      |                         +----------------Varanus_Z
@@ -226,38 +226,38 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 
 Tree in newick format:
 
-((Anolis:0.1298984572,Furcifer:0.1530283989)84:0.0315335229,Podarcis:0.1443158271,(((((Heloderma_Z:0.0292394858,Heloderma_W:0.0343008638)98:0.0138381865,(Elgaria:0.0361718621,Anniella:0.0299376794)100:0.0198671657)90:0.0070929645,Shinisaurus:0.0294423072)41:0.0008742362,(Varanus_Z:0.0543681442,Varanus_W:0.0268091415)100:0.0833260363)85:0.0252824310,(Candoia:0.0325532397,Thamnophis:0.0261451004)100:0.1062173183)87:0.0267341559);
+((Anolis:0.1298987647,Furcifer:0.1530276769)83:0.0315326310,Podarcis:0.1443159595,(((((Heloderma_Z:0.0292395472,Heloderma_W:0.0343009072)98:0.0138381865,(Elgaria:0.0361720211,Anniella:0.0299386756)100:0.0198671420)89:0.0070929645,Shinisaurus:0.0294415351)32:0.0008742260,(Varanus_Z:0.0543683164,Varanus_W:0.0268087463)100:0.0833263203)85:0.0252824310,(Candoia:0.0325532593,Thamnophis:0.0261451174)100:0.1062174144)87:0.0267341358);
 
 CONSENSUS TREE
 --------------
 
 Consensus tree is constructed from 10000 bootstrap trees
-Log-likelihood of consensus tree: -6499.286528
-Robinson-Foulds distance between ML tree and consensus tree: 0
+Log-likelihood of consensus tree: -6499.314962
+Robinson-Foulds distance between ML tree and consensus tree: 2
 
 Branches with support >0.000000% are kept (extended consensus)
 Branch lengths are optimized by maximum likelihood on original alignment
 Numbers in parentheses are bootstrap supports (%)
 
-         +----------------------------------------Anolis
-+--------| (84)
+         +---------------------------------------Anolis
++--------| (83)
 |        +-----------------------------------------------Furcifer
 |
 +--------------------------------------------Podarcis
 |
-|                        +--------Heloderma_Z
-|                    +---| (98)
-|                    |   +---------Heloderma_W
-|                 +--| (90)
-|                 |  |     +----------Elgaria
-|                 |  +-----| (100)
-|                 |        +--------Anniella
-|              +--| (41)
-|              |  +--------Shinisaurus
-|       +------| (85)
-|       |      |                         +----------------Varanus_Z
-|       |      +-------------------------| (100)
-|       |                                +-------Varanus_W
+|                         +--------Heloderma_Z
+|                     +---| (98)
+|                     |   +---------Heloderma_W
+|                  +--| (89)
+|                  |  |     +----------Elgaria
+|                  |  +-----| (100)
+|                  |        +--------Anniella
+|               +--| (41)
+|               |  |                         +----------------Varanus_Z
+|               |  +-------------------------| (100)
+|               |                            +-------Varanus_W
+|       +-------| (85)
+|       |       +--------Shinisaurus
 +-------| (87)
         |                                +---------Candoia
         +--------------------------------| (100)
@@ -266,7 +266,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-((Anolis:0.1298857989,Furcifer:0.1530093589)84:0.0315314717,Podarcis:0.1442937247,(((((Heloderma_Z:0.0292295704,Heloderma_W:0.0342953494)98:0.0138381611,(Elgaria:0.0361673433,Anniella:0.0299314348)100:0.0198658058)90:0.0070873272,Shinisaurus:0.0294391924)41:0.0008952922,(Varanus_Z:0.0543443122,Varanus_W:0.0268116761)100:0.0832794576)85:0.0252604145,(Candoia:0.0325612139,Thamnophis:0.0261228390)100:0.1062090941)87:0.0267360153);
+((Anolis:0.1298975256,Furcifer:0.1533149173)83:0.0315279232,Podarcis:0.1447857170,(((((Heloderma_Z:0.0292705152,Heloderma_W:0.0343281955)98:0.0138409370,(Elgaria:0.0362081107,Anniella:0.0299707122)100:0.0198811380)89:0.0070023959,(Varanus_Z:0.0545084018,Varanus_W:0.0267565439)100:0.0843093422)41:0.0005377804,Shinisaurus:0.0290835377)85:0.0257666158,(Candoia:0.0325298053,Thamnophis:0.0262152434)100:0.1067438888)87:0.0264462495);
 
 
 USER TREES
@@ -276,9 +276,8 @@ See all_species/stats/LOC_00019183.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -6505.319668  6.0332  0.0823 +  0.088 +  0.445 +  0.088 +  0.163 +    0.0986 +   0.0727 + 
-  2 -6642.645335  143.36       0 -      0 -      0 -      0 -      0 -  3.12e-35 - 0.000871 - 
-  3 -6499.286494       0   0.918 +  0.912 +      1 +  0.912 +  0.984 +     0.901 +    0.927 + 
+  1 -6505.559407       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -6642.945416  137.39       0 -      0 -      0 -      0 -      0 -  3.94e-30 - 3.32e-08 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -297,7 +296,7 @@ ALISIM COMMAND
 --------------
 To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
 
---alisim simulated_MSA -t all_species/stats/LOC_00019183.treefile -m "TN{5.69037,9.12953}+F{0.246957,0.287469,0.262452,0.203121}+G4{0.192445}" --length 1479
+--alisim simulated_MSA -t all_species/stats/LOC_00019183.treefile -m "TN{5.69037,9.12954}+F{0.246957,0.287469,0.262452,0.203121}+G4{0.192445}" --length 1479
 
 To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
 
@@ -312,7 +311,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:40:22 2026
-Total CPU time used: 5.71 seconds (0h:0m:5s)
-Total wall-clock time used: 7.3 seconds (0h:0m:7s)
+Date and time: Tue Aug 25 13:46:24 2026
+Total CPU time used: 5.09 seconds (0h:0m:5s)
+Total wall-clock time used: 6.51 seconds (0h:0m:6s)
 

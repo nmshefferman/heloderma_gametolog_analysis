@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/all_species/clean_fastas/LOC_00019305_updated.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 453880
+Random seed number: 285796
 
 REFERENCES
 ----------
@@ -170,7 +170,7 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 |     |     +--Elgaria
 |  +--| (99)
 |  |  |  +--Shinisaurus
-|  |  +--| (81)
+|  |  +--| (80)
 |  |     |  +-----Varanus_Z
 |  |     +--| (100)
 |  |        +------Varanus_W
@@ -185,7 +185,7 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 
 Tree in newick format:
 
-(Furcifer:0.1783940886,((((Heloderma_Z:0.0101869923,Heloderma_W:0.0205147233)100:0.0325627972,(Anniella:0.0365452476,Elgaria:0.0345339561)100:0.0229515570)74:0.0100129040,(Shinisaurus:0.0441807909,(Varanus_Z:0.0881266183,Varanus_W:0.0971803935)100:0.0503382603)81:0.0107478122)99:0.0317353618,((Thamnophis:0.5706453971,Candoia:0.0060133032)100:0.1436952637,Anolis:0.1500703792)66:0.0189274531)78:0.0316420081,Podarcis:0.1672275163);
+(Furcifer:0.1783940886,((((Heloderma_Z:0.0101869923,Heloderma_W:0.0205147233)100:0.0325627972,(Anniella:0.0365452476,Elgaria:0.0345339561)100:0.0229515570)74:0.0100129040,(Shinisaurus:0.0441807909,(Varanus_Z:0.0881266183,Varanus_W:0.0971803935)100:0.0503382603)80:0.0107478122)99:0.0317353618,((Thamnophis:0.5706453971,Candoia:0.0060133032)100:0.1436952637,Anolis:0.1500703792)66:0.0189274531)78:0.0316420081,Podarcis:0.1672275163);
 
 CONSENSUS TREE
 --------------
@@ -209,7 +209,7 @@ Numbers in parentheses are bootstrap supports (%)
 |     |     +--Elgaria
 |  +--| (99)
 |  |  |  +--Shinisaurus
-|  |  +--| (81)
+|  |  +--| (80)
 |  |     |  +-----Varanus_Z
 |  |     +--| (100)
 |  |        +------Varanus_W
@@ -225,7 +225,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-(Furcifer:0.1782493316,((((Heloderma_Z:0.0101810572,Heloderma_W:0.0205025409)100:0.0325384355,(Anniella:0.0365230619,Elgaria:0.0345113386)100:0.0229388885)74:0.0100073777,(Shinisaurus:0.0441515755,(Varanus_Z:0.0880619354,Varanus_W:0.0971127406)100:0.0503134536)81:0.0107448286)99:0.0317196093,((Thamnophis:0.5701881467,Candoia:0.0061464289)100:0.1433232851,Anolis:0.1499585181)66:0.0189824124)78:0.0316539121,Podarcis:0.1670953737);
+(Furcifer:0.1782493187,((((Heloderma_Z:0.0101810590,Heloderma_W:0.0205025385)100:0.0325384378,(Anniella:0.0365230565,Elgaria:0.0345113395)100:0.0229388947)74:0.0100073835,(Shinisaurus:0.0441515751,(Varanus_Z:0.0880626317,Varanus_W:0.0971120454)100:0.0503135113)80:0.0107448327)99:0.0317195959,((Thamnophis:0.5701881595,Candoia:0.0061464365)100:0.1433232675,Anolis:0.1499585185)66:0.0189824194)78:0.0316539244,Podarcis:0.1670953772);
 
 
 USER TREES
@@ -235,9 +235,8 @@ See all_species/stats/LOC_00019305_updated.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -13965.76309  10.813  0.0494 - 0.0498 -  0.392 + 0.0498 - 0.0899 +    0.0552 +   0.0407 - 
-  2  -14202.4402  247.49       0 -      0 -      0 -      0 -      0 -  9.58e-64 - 8.86e-60 - 
-  3 -13954.94964       0   0.951 +   0.95 +      1 +   0.95 +  0.995 +     0.945 +    0.959 + 
+  1 -13967.22608       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -14204.39915  237.17       0 -      0 -      0 -      0 -      0 -  9.26e-65 - 3.53e-47 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -271,7 +270,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:40:29 2026
-Total CPU time used: 11 seconds (0h:0m:10s)
-Total wall-clock time used: 13.8 seconds (0h:0m:13s)
+Date and time: Tue Aug 25 13:46:29 2026
+Total CPU time used: 8.33 seconds (0h:0m:8s)
+Total wall-clock time used: 10.8 seconds (0h:0m:10s)
 

@@ -2,7 +2,7 @@ IQ-TREE 2.3.5 built Jun 27 2024
 
 Input file name: ../align/all_species/clean_fastas/LOC_00019299.fasta
 Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
-Random seed number: 411698
+Random seed number: 315446
 
 REFERENCES
 ----------
@@ -158,7 +158,7 @@ Rate parameter R:
   A-G: 4.1009
   A-T: 1.0000
   C-G: 1.0000
-  C-T: 6.5945
+  C-T: 6.5944
   G-T: 1.0000
 
 State frequencies: (empirical counts from alignment)
@@ -170,9 +170,9 @@ State frequencies: (empirical counts from alignment)
 
 Rate matrix Q:
 
-  A    -1.011    0.1906    0.7268    0.0932
+  A    -1.011    0.1906    0.7268   0.09321
   C    0.1235   -0.9154    0.1772    0.6146
-  G    0.5066    0.1906   -0.7904    0.0932
+  G    0.5066    0.1906   -0.7904   0.09321
   T    0.1235     1.257    0.1772    -1.558
 
 Model of rate heterogeneity: Gamma with 4 categories
@@ -188,7 +188,7 @@ Relative rates are computed as MEAN of the portion of the Gamma distribution fal
 MAXIMUM LIKELIHOOD TREE
 -----------------------
 
-Log-likelihood of the tree: -14194.6061 (s.e. 225.9735)
+Log-likelihood of the tree: -14194.6061 (s.e. 225.9737)
 Unconstrained log-likelihood (without tree): -13298.3191
 Number of free parameters (#branches + #model parameters): 27
 Akaike information criterion (AIC) score: 28443.2122
@@ -212,7 +212,7 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
    |      |  |  |    +----Anniella
    |      |  |  +----| (100)
    |      |  |       +------Elgaria
-   |      +--| (91)
+   |      +--| (92)
    |         +--------Shinisaurus
 +--| (79)
 |  |                         +-----Candoia
@@ -227,13 +227,13 @@ Numbers in parentheses are  ultrafast bootstrap support (%)
 
 Tree in newick format:
 
-((((Varanus_Z:0.1465436566,Varanus_W:0.1354010393)100:0.1680247917,(((Heloderma_Z:0.0147621716,Heloderma_W:0.0524516104)100:0.0564799637,(Anniella:0.0326025087,Elgaria:0.0499737535)100:0.0337602874)95:0.0127340241,Shinisaurus:0.0601922491)91:0.0185450200)100:0.0460907071,(Candoia:0.0381767362,Thamnophis:0.1119507351)100:0.1654137870)79:0.0189068031,(Anolis:0.1822696110,Furcifer:0.2208636639)97:0.0449636449,Podarcis:0.1645797355);
+((((Varanus_Z:0.1465419277,Varanus_W:0.1353988380)100:0.1680217757,(((Heloderma_Z:0.0147624842,Heloderma_W:0.0524502647)100:0.0564789252,(Anniella:0.0326023276,Elgaria:0.0499728576)100:0.0337596516)95:0.0127344655,Shinisaurus:0.0601907076)92:0.0185458732)100:0.0460896950,(Candoia:0.0381779835,Thamnophis:0.1119487099)100:0.1654101579)79:0.0189067992,(Anolis:0.1822671415,Furcifer:0.2208611570)97:0.0449643381,Podarcis:0.1645776360);
 
 CONSENSUS TREE
 --------------
 
 Consensus tree is constructed from 10000 bootstrap trees
-Log-likelihood of consensus tree: -14194.606113
+Log-likelihood of consensus tree: -14194.606116
 Robinson-Foulds distance between ML tree and consensus tree: 0
 
 Branches with support >0.000000% are kept (extended consensus)
@@ -251,7 +251,7 @@ Numbers in parentheses are bootstrap supports (%)
    |      |  |  |    +----Anniella
    |      |  |  +----| (100)
    |      |  |       +------Elgaria
-   |      +--| (91)
+   |      +--| (92)
    |         +--------Shinisaurus
 +--| (79)
 |  |                         +-----Candoia
@@ -267,7 +267,7 @@ Numbers in parentheses are bootstrap supports (%)
 
 Consensus tree in newick format: 
 
-((((Varanus_Z:0.1465428352,Varanus_W:0.1353863442)100:0.1680106657,(((Heloderma_Z:0.0147648712,Heloderma_W:0.0524445124)100:0.0564706399,(Anniella:0.0326078187,Elgaria:0.0499636519)100:0.0337612143)95:0.0127342412,Shinisaurus:0.0601849987)91:0.0185591055)100:0.0460853007,(Candoia:0.0382008491,Thamnophis:0.1119341865)100:0.1653816180)79:0.0189022948,(Anolis:0.1822608820,Furcifer:0.2208572731)97:0.0449693310,Podarcis:0.1645770215);
+((((Varanus_Z:0.1465429246,Varanus_W:0.1353861697)100:0.1680104035,(((Heloderma_Z:0.0147685613,Heloderma_W:0.0524399854)100:0.0564758715,(Anniella:0.0326035492,Elgaria:0.0499683049)100:0.0337572815)95:0.0127343702,Shinisaurus:0.0601848182)92:0.0185589069)100:0.0460854734,(Candoia:0.0382007776,Thamnophis:0.1119342086)100:0.1653813424)79:0.0189019623,(Anolis:0.1822607072,Furcifer:0.2208566890)97:0.0449690851,Podarcis:0.1645770137);
 
 
 USER TREES
@@ -277,9 +277,8 @@ See all_species/stats/LOC_00019299.trees for trees with branch lengths.
 
 Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH       c-ELW       p-AU
 -------------------------------------------------------------------------------------------
-  1 -14204.24486  9.6388   0.034 - 0.0393 -  0.414 + 0.0393 - 0.0734 +    0.0423 -   0.0241 - 
-  2 -14531.53609  336.93       0 -      0 -      0 -      0 -      0 -  5.23e-97 - 8.77e-05 - 
-  3 -14194.60608       0   0.966 +  0.961 +      1 +  0.961 +  0.997 +     0.958 +    0.976 + 
+  1 -14204.91128       0       1 +      1 +      1 +      1 +      1 +         1 +        1 + 
+  2 -14532.11559   327.2       0 -      0 -      0 -      0 -      0 -  2.95e-95 - 3.95e-05 - 
 
 deltaL  : logL difference from the maximal logl in the set.
 bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
@@ -298,7 +297,7 @@ ALISIM COMMAND
 --------------
 To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
 
---alisim simulated_MSA -t all_species/stats/LOC_00019299.treefile -m "TN{4.10092,6.59449}+F{0.211316,0.326037,0.3032,0.159447}+G4{0.534738}" --length 2451
+--alisim simulated_MSA -t all_species/stats/LOC_00019299.treefile -m "TN{4.1009,6.5944}+F{0.211316,0.326037,0.3032,0.159447}+G4{0.534738}" --length 2451
 
 To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
 
@@ -313,7 +312,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Aug  4 16:40:29 2026
-Total CPU time used: 11.4 seconds (0h:0m:11s)
-Total wall-clock time used: 14 seconds (0h:0m:14s)
+Date and time: Tue Aug 25 13:46:30 2026
+Total CPU time used: 9.89 seconds (0h:0m:9s)
+Total wall-clock time used: 12.2 seconds (0h:0m:12s)
 
