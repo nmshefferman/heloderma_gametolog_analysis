@@ -4,10 +4,10 @@
 
 module load seqkit
 
-pair_tsv="../heloderma_only/Z_W_gametologs.tsv"
-w_ref="../../Heloderma_suspectum.chrW-only_PAR-masked.transcripts.fasta.gz"
-z_ref="../../Heloderma_suspectum.chrZ-only.transcripts.fasta.gz"
-outdir="../heloderma_only/align/pairwise_fastas/"
+pair_tsv="Z_W_gametologs.tsv"
+w_ref="../references/Heloderma_suspectum.chrW-only_PAR-masked.transcripts.fasta.gz"
+z_ref="../references/Heloderma_suspectum.chrZ-only.transcripts.fasta.gz"
+outdir="align/pairwise_fastas/"
 
 mkdir -p "$outdir"
 

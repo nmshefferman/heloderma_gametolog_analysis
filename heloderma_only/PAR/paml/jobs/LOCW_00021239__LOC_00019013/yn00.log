@@ -1,0 +1,27 @@
+YN00 in paml version 4.10.10, 29 Jan 2026
+
+Reading options from paml/jobs/LOCW_00021239__LOC_00019013/yn00.ctl..
+
+ns = 2  	ls = 2583
+Reading sequences, sequential format..
+Counting site patterns..  0:00
+Compressing,     62 patterns at    861 /    861 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],     62 patterns at    861 /    861 sites (100.0%),  0:00
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+(B) Yang & Nielsen (2000) method
+
+kappa = 4.60
+
+  2 vs.   1
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+   1   2
+
+Time used:  0:00

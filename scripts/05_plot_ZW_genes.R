@@ -1,13 +1,13 @@
-######
+# ------
 # Goal
 #   Make a plot mapping the Z-W gametolog positions along each chromosome. Lines connect gametolog pairs and colors represent the relative distance from the start of the chromosome.
-######
+# ------
 
 # Load in packages
 library(tidyverse)
 
 # Set working directory
-setwd("/vf/users/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only")
+setwd("/vf/users/Wilson_Lab/projects/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only")
 
 # Read in gametolog table
 gametologs <- read_tsv("Z_W_gametologs.tsv", show_col_types = FALSE) %>%
@@ -58,3 +58,4 @@ plot
 
 # Save plot
 ggsave("../figures/heloderma_Z_W_gametolog_positions.png", plot = plot, dpi = 300, width = 10, height = 6)
+ggsave("../figures/heloderma_Z_W_gametolog_positions.pdf", plot = plot, dpi = 300, width = 10, height = 6)

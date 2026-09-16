@@ -1,19 +1,21 @@
-######
+# ------
 # Goal
 #   Build summary tables identifying Z-W/W-Z/W-autosome best hits. Some W genes will have a better match to their autosomal pairs.
 #   Then, identify Z-W gametolog pairs based on whether the Z-W and W-Z best hits are reciprocal.
 # Contents
-#   1. W-Z and W-autosome best hits
-#   2. Z-W best hits
-#   3. W-Z gametolog pairs
-######
+#   1. Clean up data
+#   2. W-Z and W-autosome best hits
+#   3. Z-W best hits
+#   4. W-Z gametolog pairs
+# ------
 
 # Load in packages
 library(tidyverse)
 
 # Set working directory
-setwd("/vf/users/Wilson_Lab/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only")
+setwd("/vf/users/Wilson_Lab/projects/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/heloderma_only")
 
+# === 1) Clean up data ===
 # Read in BLAST tables
 z_to_w <- read_tsv("blast_results/zGenes_wGenes.tsv", comment = "#", col_names = FALSE)
 w_to_z <- read_tsv("blast_results/wGenes_zGenes.tsv", comment = "#", col_names = FALSE)
@@ -51,7 +53,7 @@ autosome_coords <- autosome_coords %>%
   mutate(autosome_gene = str_extract(attributes, "LOC_[0-9]+")) %>% 
   select(autosome_gene, autosome_start = start, autosome_end = end)
 
-# === 1) W-Z and W-autosome best hits ===
+# === 2) W-Z and W-autosome best hits ===
 # Best W hit for each Z gene
 z_best <- z_to_w %>% 
   group_by(Z) %>% 
@@ -115,7 +117,7 @@ w_z_autosomes_summary <- w_z_autosomes_summary[, c(1, 13, 14, 2, 15, 16, 3, 4, 5
 
 # Will save this table in a later step 
 
-# === 2) Z-W best hits ===
+# === 3) Z-W best hits ===
 # Best Z hit for each W gene
 w_best <- w_to_z %>% 
   group_by(W) %>% 
@@ -165,7 +167,7 @@ z_w_summary <- z_w_summary[, c(1, 10, 11, 2, 12, 13, 3, 4, 5, 6, 14, 15, 7, 8, 9
 # Save table
 write_tsv(z_w_summary, "Z_W_summary.tsv")
 
-# === 3) Z-W gametolog pairs ===
+# === 4) Z-W gametolog pairs ===
 # Using each table of best hits, this table takes only reciprocal best hits. These are the most high-confidence gametologs.
 w_z_autosomes_summary_v2 <- w_z_autosomes_summary %>%
   # Keep the best Z hit only when the W gene matches Z better than autosomes (if the autosome matches better, the column will list NA)
@@ -183,7 +185,7 @@ w_z_autosomes_summary_v2 <- w_z_autosomes_summary %>%
 write_tsv(w_z_autosomes_summary_v2, "W_Z_autosome_summary.tsv")
 
 # Read in ref gff file to add gene names to final gametolog table
-ref <- read_tsv("../../../Heloderma_suspectum.final.reference.gff3.gz", comment = "#", col_names = c("seqid","source","type","start","end","score","strand","phase","attributes"), show_col_types = FALSE)
+ref <- read_tsv("../references/Heloderma_suspectum.final.reference.gff3.gz", comment = "#", col_names = c("seqid","source","type","start","end","score","strand","phase","attributes"), show_col_types = FALSE)
 
 # Pull out gene names 
 gila_names_z <- ref %>%

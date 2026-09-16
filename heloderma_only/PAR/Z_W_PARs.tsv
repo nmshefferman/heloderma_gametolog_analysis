@@ -1,0 +1,48 @@
+W	W_name	W_start	W_end	Z	Z_name	Z_start	Z_end
+LOCW_00021238	CDCA8: Borealin	417358	429815	LOC_00019012	CDCA8: Borealin	374768	387229
+LOCW_00021239	ZNF665: Zinc finger protein 665	428278	449787	LOC_00019013	ZNF665: Zinc finger protein 665	385689	411297
+LOCW_00021240	ADAMTSL5: ADAMTS-like protein 5	488026	528694	LOC_00019015	ADAMTSL5: ADAMTS-like protein 5	445456	480291
+LOCW_00021241	NA	487710	520609	LOC_00019016	NA	445140	472207
+LOCW_00021242	FUT3: 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3	530940	531977	LOC_00019017	FUT3: 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3	482537	483574
+LOCW_00021243	Klhl21: Kelch-like protein 21	538504	542426	LOC_00019018	Klhl21: Kelch-like protein 21	490099	494021
+LOCW_00021244	LSM7: U6 snRNA-associated Sm-like protein LSm7	542854	549646	LOC_00019019	LSM7: U6 snRNA-associated Sm-like protein LSm7	494449	500920
+LOCW_00021245	SPPL2B: Signal peptide peptidase-like 2B	549808	572380	LOC_00019020	SPPL2B: Signal peptide peptidase-like 2B	501508	524083
+LOCW_00021246	TMPRSS9: Transmembrane protease serine 9	587797	603990	LOC_00019021	TMPRSS9: Transmembrane protease serine 9	539502	555683
+LOCW_00021247	NA	607030	609627	LOC_00019022	NA	558725	561327
+LOCW_00021248	TIMM13: Mitochondrial import inner membrane translocase subunit Tim13	607818	610169	LOC_00019023	TIMM13: Mitochondrial import inner membrane translocase subunit Tim13	559513	561864
+LOCW_00021249	LINGO3: Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3	659900	661747	LOC_00019024	LINGO3: Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3	623198	625045
+LOCW_00021250	LMNB2: Lamin-B2	667605	693204	LOC_00019025	LMNB2: Lamin-B2	636110	656522
+LOCW_00021251	Thop1: Thimet oligopeptidase	732329	754050	LOC_00019026	THOP1: Thimet oligopeptidase	695646	727805
+LOCW_00021252	SGTA: Small glutamine-rich tetratricopeptide repeat-containing protein alpha	753130	782604	LOC_00019027	SGTA: Small glutamine-rich tetratricopeptide repeat-containing protein alpha	716535	748795
+LOCW_00021253	SLC39A3: Zinc transporter ZIP3	783190	796808	LOC_00019029	SLC39A3: Zinc transporter ZIP3	749065	762682
+LOCW_00021254	DIRAS1: GTP-binding protein Di-Ras1	803861	821887	LOC_00019030	DIRAS1: GTP-binding protein Di-Ras1	769763	787408
+LOCW_00021255	NA	919376	921586	LOC_00019031	NA	884876	887086
+LOCW_00021256	NA	940765	953040	LOC_00019032	NA	906270	918757
+LOCW_00021257	GNG7: Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7	859418	960709	LOC_00019033	GNG7: Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7	918847	926266
+LOCW_00021258	FUT3: 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3	993979	1007648	LOC_00019034	FUT3: 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3	959472	973138
+LOCW_00021259	GADD45B: Growth arrest and DNA damage-inducible protein GADD45 beta	1068980	1072843	LOC_00019035	GADD45B: Growth arrest and DNA damage-inducible protein GADD45 beta	1033051	1036914
+LOCW_00021260	CARTPT: Cocaine- and amphetamine-regulated transcript protein	1100729	1106503	LOC_00019036	CARTPT: Cocaine- and amphetamine-regulated transcript protein	1064788	1070599
+LOCW_00021261	ZP4: Zona pellucida sperm-binding protein 4	1108045	1129820	LOC_00019037	ZP4: Zona pellucida sperm-binding protein 4	1072142	1093909
+LOCW_00021262	Map1b: Microtubule-associated protein 1B	1133918	1177108	LOC_00019038	Map1b: Microtubule-associated protein 1B	1097830	1141982
+LOCW_00021263	NA	1158133	1158213	LOC_00019039	NA	1122048	1122128
+LOCW_00021264	FCHO1: F-BAR domain only protein 1	1169790	1235128	LOC_00019040	FCHO1: F-BAR domain only protein 1	1133708	1199996
+LOCW_00021265	B3GNT3: N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3	1271243	1272391	LOC_00019041	B3GNT3: N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3	1236227	1237375
+LOCW_00021266	Jak3: Tyrosine-protein kinase JAK3	1281126	1328961	LOC_00019042	Jak3: Tyrosine-protein kinase JAK3	1244086	1294030
+LOCW_00021268	ccdc124: Coiled-coil domain-containing protein 124	1453266	1469059	LOC_00019043	ccdc124: Coiled-coil domain-containing protein 124	1418261	1434043
+LOCW_00021270	KCNN2: Small conductance calcium-activated potassium channel protein 2	1526497	1571199	LOC_00019045	KCNN2: Small conductance calcium-activated potassium channel protein 2	1491550	1536288
+LOCW_00021271	Marveld2: MARVEL domain-containing protein 2	1586131	1593737	LOC_00019046	Marveld2: MARVEL domain-containing protein 2	1551244	1558834
+LOCW_00021272	OCLN: Occludin	1597723	1624842	LOC_00019047	OCLN: Occludin	1562820	1589938
+LOCW_00021273	Nr2f6: Nuclear receptor subfamily 2 group F member 6	1632323	1660992	LOC_00019048	Nr2f6: Nuclear receptor subfamily 2 group F member 6	1597416	1626073
+LOCW_00021274	BABAM1: BRISC and BRCA1-A complex member 1	1711114	1721652	LOC_00019049	BABAM1: BRISC and BRCA1-A complex member 1	1674750	1685290
+LOCW_00021275	ANKLE1: Ankyrin repeat and LEM domain-containing protein 1	1722961	1742725	LOC_00019050	ANKLE1: Ankyrin repeat and LEM domain-containing protein 1	1686599	1706362
+LOCW_00021276	ABHD8: Protein ABHD8	1749142	1753345	LOC_00019051	ABHD8: Protein ABHD8	1712777	1716981
+LOCW_00021278	CCL14: C-C motif chemokine 14	1888499	1894238	LOC_00019053	CCL14: C-C motif chemokine 14	1851952	1857691
+LOCW_00021279	SLC1A7: Excitatory amino acid transporter 5	1904294	1924489	LOC_00019054	SLC1A7: Excitatory amino acid transporter 5	1867747	1887941
+LOCW_00021280	POLE4: DNA polymerase epsilon subunit 4	1926080	1932139	LOC_00019055	POLE4: DNA polymerase epsilon subunit 4	1889532	1895591
+LOCW_00021281	Bmp2: Bone morphogenetic protein 2	1955657	1961918	LOC_00019056	Bmp2: Bone morphogenetic protein 2	1919111	1925380
+LOCW_00021282	Kcnv2: Potassium voltage-gated channel subfamily V member 2	1966198	1971244	LOC_00019057	Kcnv2: Potassium voltage-gated channel subfamily V member 2	1929659	1934705
+LOCW_00021283	Lrp2: Low-density lipoprotein receptor-related protein 2	1973988	1988710	LOC_00019058	Lrp2: Low-density lipoprotein receptor-related protein 2	1937449	1952408
+LOCW_00021284	NDUFA7: NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7	1992105	1999335	LOC_00019059	NDUFA7: NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7	1955826	1963227
+LOCW_00021285	Rps28: Small ribosomal subunit protein eS28	1999645	2001365	LOC_00019060	Rps28: Small ribosomal subunit protein eS28	1963537	1965259
+LOCW_00021286	KANK3: KN motif and ankyrin repeat domain-containing protein 3	2008187	2011234	LOC_00019061	KANK3: KN motif and ankyrin repeat domain-containing protein 3	1972093	1975140
+LOCW_00021288	Vmn2r26: Vomeronasal type-2 receptor 26	2141804	2175134	LOC_00019063	Vmn2r26: Vomeronasal type-2 receptor 26	2105840	2179646
