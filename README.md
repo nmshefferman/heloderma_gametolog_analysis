@@ -1281,3 +1281,5 @@ chmod u+x 24d_combine_topology_results.sh
 **Output:** `/data/Wilson_Lab/projects/squamates/Heloderma_sexchr/gametolog_analysis/sheffermannm/iqtree/topology_tests/tree_topology_results.tsv`
 
 ! NOTE: a p-AU value closer to 1 means the test **fails to reject** that tree as a true topology
+
+! NOTE: In `tree_topology_results.tsv` tree 1 refers to the multiple origin tree and tree 2 referes to the independent origin tree.
